@@ -10,6 +10,7 @@
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
 - [Ситуація з коронавірусом в Берліні / Corona situation in Berlin](#user-content-ситуація-з-коронавірусом-в-берліні--corona-situation-in-berlin)
 - [Догляд за дітьми і навчання / Child care and education](#user-content-догляд-за-дітьми-і-навчання--child-care-and-education)
+- [Юридична підтримка / Legal support](#user-content-юридична-підтримка--legal-support)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -88,9 +89,11 @@ List of sites where you can find housing:<br />
 <br />
 <br />
 <br />
-[Berliner Tiertafel](https://tiertafel.org/) (Берлінський харчовий банк для домашніх тварин) та Humane Society International підтримують людей, які втекли з України зі своїми домашніми тваринами, безкоштовним кормом, обладнанням та медичною допомогою.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
+[Berliner Tiertafel](https://tiertafel.org/) (Берлінський харчовий банк для домашніх тварин) та Humane Society International підтримують людей, які втекли з України зі своїми домашніми тваринами, безкоштовним кормом, обладнанням та медичною допомогою.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)<br />
+[Телеграм-канал безкоштовних консультацій для домашніх тварин](https://t.me/vetbel)
 ___
-[Berliner Tiertafel](https://tiertafel.org/) (Berlin food bank for pets) and Humane Society International are supporting people who have fled Ukraine with their pets with free pet food, equipment and medical treatment.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+[Berliner Tiertafel](https://tiertafel.org/) (Berlin food bank for pets) and Humane Society International are supporting people who have fled Ukraine with their pets with free pet food, equipment and medical treatment.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)<br />
+[Telegram channel consulting free of charge about pets](https://t.me/vetbel)
 
 ## Громадський транспорт / Public transport
 Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
@@ -217,6 +220,13 @@ ___
 ___
 [German courses, vocational orientation, training and work for refugees](https://www.berlin.de/vhs/kurse/deutsch-integration/kurse-fuer-gefluechtete/)<br />
 [State Office for Refugee Affairs](https://www.berlin.de/laf/ankommen/)
+
+## Юридична підтримка / Legal support
+[Legal information](https://tomaas.notion.site/Legal-information-for-Germany-14c3b8c1bc434b01ae5783fee1d8b978)<br />
+[Telegram channel with legal advice for refugees from Ukraine](https://t.me/ukrasylumrefugee)
+___
+[Юридична інформація](https://tomaas.notion.site/Legal-information-for-Germany-14c3b8c1bc434b01ae5783fee1d8b978)<br />
+[Телеграм канал з юридичною консультацією для біженців з України](https://t.me/ukrasylumrefugee)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
