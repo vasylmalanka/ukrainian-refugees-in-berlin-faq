@@ -11,6 +11,7 @@
 - [Ситуація з коронавірусом в Берліні / Corona situation in Berlin](#user-content-ситуація-з-коронавірусом-в-берліні--corona-situation-in-berlin)
 - [Догляд за дітьми і навчання / Child care and education](#user-content-догляд-за-дітьми-і-навчання--child-care-and-education)
 - [Юридична підтримка / Legal support](#user-content-юридична-підтримка--legal-support)
+- [Робота для українців, постраждалих від війни / Work for Ukrainians affected by the war](#user-content-робота-для-українців-постраждалих-від-війни--work-for-ukrainians-affected-by-the-war)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -227,6 +228,9 @@ ___
 ___
 [Юридична інформація](https://tomaas.notion.site/Legal-information-for-Germany-14c3b8c1bc434b01ae5783fee1d8b978)<br />
 [Телеграм канал з юридичною консультацією для біженців з України](https://t.me/ukrasylumrefugee)
+
+## Робота для українців, постраждалих від війни / Work for Ukrainians affected by the war
+[https://hireforukraine.org/](https://hireforukraine.org/)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
