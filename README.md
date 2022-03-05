@@ -24,6 +24,18 @@ If you do not have a biometric passport, you need a Schengen visa to enter Germa
 Оскільки ви є громадянином України з біометричним паспортом або шенгенською візою і перебуваєте в Німеччині на законних підставах, вам не потрібно спочатку реєструватися в органах влади або подавати заяву про надання притулку.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
 ___
 Since you are a Ukrainian citizen with a biometric passport or Schengen visa residing in Germany legally, you do not have to register with the authorities or apply for asylum initially.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+<br />
+<br />
+<br />
+Наразі в ЄС докладаються зусилля щодо роз’яснення офіційного статусу проживання громадян України. Однією з можливостей, що обговорюються, є застосування положення про «тимчасовий захист» відповідно до Директиви 2001/55/EC. Інформація про поточні події буде розміщена [тут](https://www.berlin.de/ukraine/en/arrive/#headline_1_4).
+___
+EU-wide efforts are currently underway to clarify the official residence status of people from Ukraine. One possibility being discussed is applying the “temporary protection” clause under Directive 2001/55/EC. Information on current developments will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_4).
+<br />
+<br />
+<br />
+Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання притулку. Прохання про надання притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
+___
+If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
 
 ## Пошук житла / Looking for housing
 Якщо вам потрібна допомога – наприклад, з проживанням або з базовими потребами, будь ласка, зв’яжіться з Центром Прибуття. Він розташований за адресою [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). У Центрі Прибуття вас протестують на коронавірус, а потім зареєструють. Під час реєстрації необхідно пред'явити паспорт або посвідчення особи. Після цього вас відвезуть до місця проживання. Ви отримаєте засоби гігієни, невідкладну допомогу, кімнату та триразове харчування. Протягом наступних днів ви отримаєте інформацію про порядок отримання посвідки на проживання.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
