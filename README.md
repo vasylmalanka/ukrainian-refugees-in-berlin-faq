@@ -6,6 +6,7 @@
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum](#user-content-реєстрація-в-органах-влади-та-подання-заявки-про-притулок--registering-with-the-authorities-and-applying-for-asylum)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
+- [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -60,6 +61,17 @@ List of sites where you can find housing:<br />
 [https://hospitality-helps.org/](https://hospitality-helps.org/)<br />
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
 [https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
+
+## Громадський транспорт / Public transport
+Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+___
+As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn trains (suburban and underground trains) in Berlin free of charge.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+<br />
+<br />
+<br />
+Для пошуку сполучень по місту зазвичай використовується [Google Maps](https://www.google.com/maps/). Але додаток [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) містить точнішу інформацію, таку як відміна сполучення або зміна маршруту.
+___
+[Google Maps](https://www.google.com/maps/) is commonly used to search for city connections. But the [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) contains more accurate information, such as canceling a connection or changing a route.
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
