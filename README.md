@@ -9,6 +9,7 @@
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
 - [Ситуація з коронавірусом в Берліні / Corona situation in Berlin](#user-content-ситуація-з-коронавірусом-в-берліні--corona-situation-in-berlin)
+- [Догляд за дітьми і навчання / Child care and education](#user-content-догляд-за-дітьми-і-навчання--child-care-and-education)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -38,9 +39,11 @@ EU-wide efforts are currently underway to clarify the official residence status 
 Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання політичного притулку (азиль). Прохання про надання політичного притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4)
 ___
 If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
+However, if you need social benefits (financial support, medical care, housing), you should register. Then you have a legal right to state support.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_4)
 
 ## Дозвіл на роботу / Work permit
 Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4)
+Однак, якщо вам потрібні соціальні виплати (матеріальна підтримка, медичне обслуговування, житло), вам слід зареєструватися. Тоді у вас є законне право на державну підтримку.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_4)
 ___
 Labour law aspects are also currently still being clarified. If you entered Germany without a visa or on a Schengen visa, you are initially not allowed to work. If you have a long-term visa or national visa or a work visa for Germany, you are allowed to work.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
 
@@ -119,6 +122,101 @@ You can get tested for the coronavirus free of charge at [numerous test centres]
 
 ___
 Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
+
+## Догляд за дітьми і навчання / Child care and education
+Берлін підтримує вас і ваших дітей численними пропозиціями:
+- За вашими маленькими дітьми можна, за бажанням, доглядати в дитячому садку. Тут вони можуть грати та навчатися разом з іншими дітьми. Вони знайдуть нових друзів у Kita і швидко вивчать німецьку мову. Це добре готує дітей до подальшого відвідування школи.
+- Якщо вашій дитині 6 років і більше, вона повинна відвідувати школу. Ми підтримаємо вас у пошуку відповідного навчального закладу. Поки ваша дитина ще не володіє німецькою мовою, вона спочатку відвідає вітальний клас, щоб набути мовних навичок. Після цього він або вона перейде в звичайний клас і братиме участь у звичайних уроках і повсякденному шкільному житті.
+– У берлінських університетах є широкі консультаційні послуги. Там ви отримаєте інформацію про навчальні програми та вимоги для вступу або продовження програми навчання.
+– Для дитячих садочків та шкіл ми видали посібник, який надає правову, організаційну та педагогічну інформацію для підтримки інтеграції дітей та молоді іммігрантів.
+Доступні:
+- мовні курси VHS
+- Кваліфікація педагогічного колективу
+- Посилення шкільної психологічної служби
+- Шкільна соціальна робота
+- Школи відпочинку
+- Культурні та спортивні заходи[[⁶]](https://www.berlin.de/sen/bjf/refugees/)
+___
+Berlin supports you and your children with numerous offers:
+- Your young children can, if you wish, be looked after in a day care centre. Here they can play and learn together with other children. They will make new friends at the Kita and quickly learn the German language. This prepares the children well for attending school later on.
+- If your child is at least 6 years old, he or she must attend school. We will support you in finding a suitable school place. As long as your child does not speak German yet, he or she will first attend a welcome class to acquire the language skills. Afterwards, he or she will transfer to a regular class and take part in normal lessons and everyday school life.
+- There are extensive counselling services at Berlin’s universities. There you will receive information about the degree programmes and the requirements for taking up or continuing a degree programme.
+- For daycare centres and schools, we have published a guide that provides legal, organisational and pedagogical information to support the integration of immigrant children and young people.
+Available are:
+- VHS language courses
+- Qualification of the pedagogical staff
+- Strengthening of the school psychology service
+- School social work
+- Holiday schools
+- Cultural and sporting activities[[⁶]](https://www.berlin.de/sen/bjf/refugees/)
+<br />
+<br />
+
+Ваша дитина має можливість відвідувати дитячий садок (Kita). Щоб ваша дитина була добре підготовлена до відвідування школи пізніше, ви повинні скористатися цією можливістю.
+Перший крок – подати заявку на ваучер Kita. Ви можете отримати бланк у вашому житловому будинку; Ви також можете заповнити його онлайн. Отримавши ваучер Kita від Управління молоді, ви зможете скористатися ним, щоб знайти безкоштовне місце для своєї дитини.<br />
+[До онлайн-заявки на ваучер Kita](https://fms.verwalt-berlin.de/kita)<br />
+[Пошук місць у Kita](https://www.kita-navigator.berlin.de/suche)<br />
+[Ласкаво просимо в Берлін сім’ям з маленькими дітьми](https://www.berlin.de/sen/bjf/gefluechtete/willkomm_in_berlin_kita_engl.pdf)<br />
+[Пакет для навчання і участі в суспільному житті](https://www.berlin.de/sen/bjf/bildungspaket/fachinfo/merkblatt-but-leistungen-in-kita-russisch.pdf)[[⁷]](https://www.berlin.de/sen/bjf/refugees/#headline_1_2)
+___
+Your child has the opportunity to attend a day care centre. To ensure that your child is well prepared to attend school later, you should take advantage of this opportunity.
+The first step is to apply for a Kita voucher. You can get the form at your residential facility; you can also fill it out online. After you have received the Kita voucher from the Youth Welfare Office, you can use it to find a free place for your child.<br />
+[To the online application for a Kita voucher](https://fms.verwalt-berlin.de/kita)<br />
+[Kita place search](https://www.kita-navigator.berlin.de/suche)<br />
+[Welcome to Berlin for families with small children](https://www.berlin.de/sen/bjf/gefluechtete/willkomm_in_berlin_kita_engl.pdf)<br />
+[Information about the Education and Participation Package](https://www.berlin.de/sen/bjf/bildungspaket/fachinfo/merkblatt-but-leistungen-in-kita-englisch.pdf)[[⁷]](https://www.berlin.de/sen/bjf/refugees/#headline_1_2)
+<br />
+<br />
+
+Коли вашій дитині виповниться принаймні 6 років, вона вступає в обов’язковий шкільний вік і має отримати шкільне місце якомога швидше. Для цього необхідно спочатку зареєструвати дитину в координаційному відділі шкільної адміністрації за місцем проживання.
+Адміністрація школи вирішує, до якої школи та до якого класу буде зарахована ваша дитина. При цьому враховуються вік вашої дитини, мовний тест та шкільний медичний огляд. Потім ви особисто зареєструєте свою дитину в школі, про яку вам повідомили.[[⁸]](https://www.berlin.de/sen/bjf/refugees/#headline_1_8)<br />
+[Ви недавно переїхали в Німеччину?](https://www.berlin.de/sen/bjf/gefluechtete/elternbooklet_neuzugewanderte_ru.pdf)<br />
+[Інформація для біженців з школярами](https://www.berlin.de/sen/bjf/gefluechtete/refugees_engl_web.pdf)
+___
+When your child is at least 6 years old, he or she is of compulsory school age and should get a school place as soon as possible. To do this, you must first register your child at the coordination office of the school authority in your district of residence.
+The school authority decides which school and which class your child will be enrolled in. This takes into account your child’s age, a language test and a school medical examination. You then register your child in person at the school you have been informed of.[[⁸]](https://www.berlin.de/sen/bjf/refugees/#headline_1_8)<br />
+[New in Germany?](https://www.berlin.de/sen/bjf/gefluechtete/elternbooklet_neuzugewanderte_en.pdf)<br />
+[Information for refugees with schoolchildren](https://www.berlin.de/sen/bjf/gefluechtete/refugees_engl_web.pdf)
+<br />
+<br />
+
+Якщо ви хочете отримати німецький Abitur, вам 18 років і вже володієте німецькою мовою на рівні B-1, ви можете звернутися до коледжу або вечірньої школи. На підготовчому курсі ви можете підвищити рівень володіння німецькою мовою до рівня B-2. Якщо ви досягли рівня B-2, ви спочатку пройдете так званий попередній курс.
+Якщо ви успішно пройшли попередній курс, ви можете відвідувати коледж або вечірню гімназію протягом трьох років, щоб отримати Abitur.
+Відвідування коледжів та вечірніх гімназій є безкоштовним і субсидується BAföG з 11-го класу. Додаткову інформацію можна знайти на веб-сайтах коледжів та вечірніх гімназій:<br />
+[Berlin-Kolleg](https://www.berlin-kolleg.de/kontakt)<br />
+Turmstr. 75, 10551 Берлін-Мітте<br />
+[Victor-Klemperer-Kolleg](https://www.berlin.de/sen/bjf/refugees/www.victor-klemperer-kolleg.de/index.php/unser-plus/w-klassen#schulabschl%C3%BCsse)<br />
+Марта-Арендзее-вул. 15, 12681 Berlin Marzahn-Hellersdorf<br />
+[Abendgymnasium Prenzlauer Berg](https://www.abendgymnasium-berlin.de/schulprofil/ausbildung.html)<br />
+Дрізенер вул. 22, 10439 Берлін-Паньков<br />
+[Peter-A.-Silbermann-Schule-Abendgymnasium](http://abendgymnasium.de/wordpress/2016/11/abitur-fuer-gefluechtete/)<br />
+Blissestraße 22, 10713 Berlin-Wilmersdorf[[⁹]](https://www.berlin.de/sen/bjf/refugees/#headline_1_15)
+___
+If you want to obtain the German Abitur, are 18 years old and already have a command of the German language at level B-1, you can turn to a college or evening high school. In a preparatory course you can improve your German language skills to level B-2. If you have reached level B-2, you will first attend a so-called preliminary course.
+If you have successfully passed the preliminary course, you can attend a college or an evening grammar school for a period of three years in order to take the Abitur.
+Attendance at colleges and evening grammar schools is free of charge and is subsidised by BAföG from the 11th grade onwards. Further information is available on the websites of the colleges and evening grammar schools:<br />
+[Berlin-Kolleg](https://www.berlin-kolleg.de/kontakt)<br />
+Turmstr. 75, 10551 Berlin-Mitte<br />
+[Victor-Klemperer-Kolleg](https://www.berlin.de/sen/bjf/refugees/www.victor-klemperer-kolleg.de/index.php/unser-plus/w-klassen#schulabschl%C3%BCsse)<br />
+Martha-Arendsee-Str. 15, 12681 Berlin Marzahn-Hellersdorf<br />
+[Abendgymnasium Prenzlauer Berg](https://www.abendgymnasium-berlin.de/schulprofil/ausbildung.html)<br />
+Driesener Str. 22, 10439 Berlin-Pankow<br />
+[Peter-A.-Silbermann-Schule-Abendgymnasium](http://abendgymnasium.de/wordpress/2016/11/abitur-fuer-gefluechtete/)<br />
+Blissestraße 22, 10713 Berlin-Wilmersdorf[[⁹]](https://www.berlin.de/sen/bjf/refugees/#headline_1_15)
+<br />
+<br />
+
+[Інформація для неповнолітніх біженців без супроводу](https://www.berlin.de/sen/jugend/jugend/unbegleitete-minderjaehrige-fluechtlinge/)
+___
+[Information for unaccompanied minor refugees](https://www.berlin.de/sen/jugend/jugend/unbegleitete-minderjaehrige-fluechtlinge/)
+<br />
+<br />
+
+[Курси німецької мови, професійна орієнтація, навчання та робота для біженців](https://www.berlin.de/vhs/kurse/deutsch-integration/kurse-fuer-gefluechtete/)<br />
+[Державне управління у справах біженців](https://www.berlin.de/laf/ankommen/)
+___
+[German courses, vocational orientation, training and work for refugees](https://www.berlin.de/vhs/kurse/deutsch-integration/kurse-fuer-gefluechtete/)<br />
+[State Office for Refugee Affairs](https://www.berlin.de/laf/ankommen/)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
