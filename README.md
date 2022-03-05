@@ -59,22 +59,13 @@ You can reach Arrival Centre by taking public transport to the S-Bahn and U-Bahn
 <br />
 <br />
 Ви також можете зупинитися у приватних осіб або сімей. Ви вже можете подати запит на проживання на unterkunft-ukraine.de ще до в’їзду в Німеччину.
-Список сайтів, де можна знайти житло:<br />
-[https://www.unterkunft-ukraine.de/request](https://www.unterkunft-ukraine.de/request)<br />
-[https://www.shelter4ua.com/ua/get_help](https://www.shelter4ua.com/ua/get_help)<br />
-[https://www.facebook.com/groups/651515972969783/](https://www.facebook.com/groups/651515972969783/)<br />
-[https://wunderflats.com/page/ukraine/tenants-in-need-ua](https://wunderflats.com/page/ukraine/tenants-in-need-ua)<br />
-[https://t.me/+pY4AEUY_0jZhMzQ0 (Telegram)](https://t.me/+pY4AEUY_0jZhMzQ0)<br />
-[https://www.immobilienscout24.de/lp/hilfe-fuer-die-ukraine.html](https://www.immobilienscout24.de/lp/hilfe-fuer-die-ukraine.html)<br />
-[https://helppeopleleaveukraine.org/posting-category/accommodation](https://helppeopleleaveukraine.org/posting-category/accommodation)<br />
-[https://warmes-bett.de/](https://warmes-bett.de/)<br />
-[https://icanhelp.host/](https://icanhelp.host/)<br />
-[https://hospitality-helps.org/home/uk](https://hospitality-helps.org/home/uk)<br />
-[https://everybedhelps.com/](https://everybedhelps.com/)<br />
-[https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
+Список сайтів, де можна знайти житло:
 ___
 You also have the option of staying with private individuals or families. You can already submit a request for accommodation before you enter Germany.
-List of sites where you can find housing:<br />
+List of sites where you can find housing:
+<br />
+<br />
+<br />
 [https://www.unterkunft-ukraine.de/request](https://www.unterkunft-ukraine.de/request)<br />
 [https://www.shelter4ua.com/en/get_help](https://www.shelter4ua.com/en/get_help)<br />
 [https://www.facebook.com/groups/651515972969783/](https://www.facebook.com/groups/651515972969783/)<br />
@@ -87,6 +78,7 @@ List of sites where you can find housing:<br />
 [https://hospitality-helps.org/](https://hospitality-helps.org/)<br />
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
 [https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
+[https://www.ukrainenow.org/looking-for-help-abroad](https://www.ukrainenow.org/looking-for-help-abroad)
 <br />
 <br />
 <br />
