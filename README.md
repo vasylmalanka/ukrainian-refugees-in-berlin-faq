@@ -6,6 +6,7 @@
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum](#user-content-реєстрація-в-органах-влади-та-подання-заявки-про-притулок--registering-with-the-authorities-and-applying-for-asylum)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
+- [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
 Вам, як українцю, загалом дозволено в’їжджати в Німеччину та Берлін без візи. Все, що вам потрібно, це біометричний паспорт. Якщо ви в’їжджаєте без візи, спочатку вам дозволено перебувати в Берліні до 31 травня 2022 року. Залежно від розвитку ситуації в Україні цей термін може бути продовжений. Зверніть увагу: дозвіл на тимчасове проживання до 31 травня 2022 року дійсний лише в Берліні. Якщо ви бажаєте залишитися в іншій федеральній землі, ви повинні повідомити відповідний орган реєстрації іноземців (Ausländerbehörde) там через 90 днів, щоб переконатися, що ви можете продовжувати залишатися.[[¹]](https://www.berlin.de/ukraine/en/arrive/#headline_1_1)
@@ -59,3 +60,8 @@ List of sites where you can find housing:<br />
 [https://hospitality-helps.org/](https://hospitality-helps.org/)<br />
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
 [https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
+
+## Як я можу додати інформацію? / How can I add information?
+Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
+___
+Contact me - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
