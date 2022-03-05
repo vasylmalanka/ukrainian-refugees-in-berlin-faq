@@ -8,6 +8,7 @@
 - [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
+- [Ситуація з коронавірусом в Берліні / Corona situation in Berlin](#user-content-ситуація-з-коронавірусом-в-берліні--corona-situation-in-berlin)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -98,6 +99,26 @@ As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn 
 Для пошуку сполучень по місту зазвичай використовується [Google Maps](https://www.google.com/maps/). Але додаток [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) містить точнішу інформацію, таку як відміна сполучення або зміна маршруту.
 ___
 [Google Maps](https://www.google.com/maps/) is commonly used to search for city connections. But the [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) contains more accurate information, such as canceling a connection or changing a route.
+
+## Ситуація з коронавірусом в Берліні / Corona situation in Berlin
+В зв’язку з пандемією коронавірусу в Берліні зараз діють особливі правила поведінки та вживаються особливі заходи. [Тут](https://www.berlin.de/corona/en/measures/) ви знайдете перелік діючих правил. Найважливіші з них:
+- Правило 3G в громадському транспорті (3G = протестований, перехворівший або вакцинований). Для того, щоб користуватися громадським транспортом, Ви маєте бути або вакциновані, недавно перехворіти на ковід, або мати негативний результат тест зробленого протягом останніх 48-и годин. Крім того, в транспорті треба носити маску FFP2. Маски вам видадуть в Центрі прийому біженців.
+- У магазинах та супермаркетах ви зобов’язані носити маску FFP2.
+- У переважній більшості будівель потрібно носити медичну маску.
+Безкоштовний тест на ковід можна зробити в [численних пунктах тестування](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+___
+Special measures and rules for how to behave are currently in place in Berlin due to the corona pandemic. [Here](https://www.berlin.de/corona/en/measures/) is an overview of the current rules. The most important points relate to:
+- 3G rule on public transport (3G = tested, recovered or vaccinated): If you have not been vaccinated against the coronavirus or have not recently recovered from Covid19, you must have proof of a current corona test with you when using public transport. You must also wear an FFP2 mask. You will be provided with this at the Arrival Centre.
+- FFP2 mask requirement: You must wear an FFP2 mask in supermarkets and shops.
+- Mask requirement in buildings: In most buildings you must wear a medical face mask or surgical mask.
+You can get tested for the coronavirus free of charge at [numerous test centres](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+<br />
+<br />
+
+Біженці з України також незабаром отримають можливість зробити щеплення від коронавірусу. Додаткова інформація з цього приводу буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5).
+
+___
+Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
