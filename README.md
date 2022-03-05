@@ -8,6 +8,7 @@
 - [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
+- [Безкоштовні поїздки по Німеччині / Free travel in Germany](#user-content-безкоштовні-поїздки-по-німеччині--free-travel-in-germany)
 - [Ситуація з коронавірусом в Берліні / Corona situation in Berlin](#user-content-ситуація-з-коронавірусом-в-берліні--corona-situation-in-berlin)
 - [Догляд за дітьми і навчання / Child care and education](#user-content-догляд-за-дітьми-і-навчання--child-care-and-education)
 - [Юридична підтримка / Legal support](#user-content-юридична-підтримка--legal-support)
@@ -100,6 +101,15 @@ As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn 
 Для пошуку сполучень по місту зазвичай використовується [Google Maps](https://www.google.com/maps/). Але додаток [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) містить точнішу інформацію, таку як відміна сполучення або зміна маршруту.
 ___
 [Google Maps](https://www.google.com/maps/) is commonly used to search for city connections. But the [Fahrinfo-App](https://www.bvg.de/en/tickets-tariffs/all-apps/fahrinfo-app) contains more accurate information, such as canceling a connection or changing a route.
+
+## Безкоштовні поїздки по Німеччині / Free travel in Germany
+Deutsche Bahn (DB) допомагає біженцям з України подорожувати по Німеччині. Сьогодні став доступним квиток «helpukraine». Українські пасажири можуть отримати цей квиток на потяг у всіх туристичних центрах DB Reisezentrum та агентствах DB у Німеччині. Безкоштовний квиток дійсний для подорожей міжміськими, регіональними та місцевими рейсами до будь-якої станції призначення. Це означає, що біженці можуть дістатися до своїх сімей, родичів і друзів по всій Німеччині. DB надає інформаційні листки, щоб люди дізналися про спеціальний квиток «helpukraine». Крім того, усіма регіональними та місцевими поїздами по всій Німеччині можна користуватися безкоштовно, при цьому пасажирам потрібно лише пред’явити документ, що посвідчує особу (паспорт або ідентифікаційну картку).<br />
+Deutsche Bahn розмістила інформацію для біженців та інших людей на [веб-сайті](bahn.de/helpukraine), а також може допомогти людям за допомогою гарячої лінії 0049 (0) 30-2970 кількома мовами.<br />
+Щоб бути в курсі ситуації, що стосується подій в Україні, DB продовжує тісно співпрацювати з Федеральним урядом, Федеральним міністерством цифрових технологій і транспорту (BMDV) та органами влади на національному та місцевому рівнях, а також із залізницями-партнерами сусідніх країн.[[¹⁰]](https://www.deutschebahn.com/en/presse/press_releases/-helpukraine-ticket-allows-refugees-to-travel-to-any-station-in-Germany-free-of-charge-7315140)
+___
+Deutsche Bahn (DB) is helping refugees from Ukraine to continue their journey in Germany. Today the “helpukraine” ticket has been made available. Ukrainian guests can receive this train ticket at all DB Reisezentrum travel centres and DB agencies in Germany. The free ticket is valid for travel on long distance, regional and local services to any destination station. This means that refugees can reach their families, relatives and friends all across Germany. DB is providing information sheets to let people know about the special “helpukraine” ticket. In addition, all regional and local trains in all of Germany can be used free of charge, with passengers only having to show proof of identity (passport or ID card).<br />
+Deutsche Bahn has set up information for refugees and other people on the [website](bahn.de/helpukraine) and can also help people via the customer hotline 0049 (0) 30-2970 in several languages. <br />
+To keep informed of the situation concerning events in Ukraine, DB continues to liaise closely with the Federal Government, the Federal Ministry for Digital and Transport (BMDV) and the authorities at national and local level, as well as with partner railways in neighbouring countries.[[¹⁰]](https://www.deutschebahn.com/en/presse/press_releases/-helpukraine-ticket-allows-refugees-to-travel-to-any-station-in-Germany-free-of-charge-7315140)
 
 ## Ситуація з коронавірусом в Берліні / Corona situation in Berlin
 В зв’язку з пандемією коронавірусу в Берліні зараз діють особливі правила поведінки та вживаються особливі заходи. [Тут](https://www.berlin.de/corona/en/measures/) ви знайдете перелік діючих правил. Найважливіші з них:
@@ -232,9 +242,11 @@ ___
 ## Медична допомога / Medical care
 [Різні посилання](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Безкоштовна психологічна підтримка](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
+[Терапевти для України](https://complicated.life/en/ukraine)
 ___
 [Various links](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Free psychological support](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
+[Therapists for Ukraine](https://complicated.life/en/ukraine)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
