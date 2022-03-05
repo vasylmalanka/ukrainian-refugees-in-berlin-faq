@@ -1,4 +1,6 @@
 # Інформація для біженців з України прибуваючих в Берлін / Information for refugees from Ukraine arriving in Berlin
+| інформація оновлюється / information is being updated |
+| --- |
 
 ## Зміст / Table of contents
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
