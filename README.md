@@ -5,6 +5,7 @@
 ## Зміст / Table of contents
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum](#user-content-реєстрація-в-органах-влади-та-подання-заявки-про-притулок--registering-with-the-authorities-and-applying-for-asylum)
+- [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
@@ -36,6 +37,11 @@ EU-wide efforts are currently underway to clarify the official residence status 
 Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання притулку. Прохання про надання притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
 ___
 If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
+
+## Дозвіл на роботу / Work permit
+Наразі аспекти трудового законодавства також уточнюються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
+___
+Labour law aspects are also currently still being clarified. If you entered Germany without a visa or on a Schengen visa, you are initially not allowed to work. If you have a long-term visa or national visa or a work visa for Germany, you are allowed to work.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
 
 ## Пошук житла / Looking for housing
 Якщо вам потрібна допомога – наприклад, з проживанням або з базовими потребами, будь ласка, зв’яжіться з Центром Прибуття. Він розташований за адресою [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). У Центрі Прибуття вас протестують на коронавірус, а потім зареєструють. Під час реєстрації необхідно пред'явити паспорт або посвідчення особи. Після цього вас відвезуть до місця проживання. Ви отримаєте засоби гігієни, невідкладну допомогу, кімнату та триразове харчування. Протягом наступних днів ви отримаєте інформацію про порядок отримання посвідки на проживання.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
