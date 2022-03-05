@@ -27,8 +27,10 @@ Since you are a Ukrainian citizen with a biometric passport or Schengen visa res
 
 ## Пошук житла / Looking for housing
 Якщо вам потрібна допомога – наприклад, з проживанням або з базовими потребами, будь ласка, зв’яжіться з Центром Прибуття. Він розташований за адресою [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). У Центрі Прибуття вас протестують на коронавірус, а потім зареєструють. Під час реєстрації необхідно пред'явити паспорт або посвідчення особи. Після цього вас відвезуть до місця проживання. Ви отримаєте засоби гігієни, невідкладну допомогу, кімнату та триразове харчування. Протягом наступних днів ви отримаєте інформацію про порядок отримання посвідки на проживання.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+До Центру Прибуття можна дістатися громадським транспортом до станції S-Bahn та U-Bahn Karl-Bonhoeffer-Nervenklinik. Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні. Від центрального вокзалу (Hauptbahnhof) до Центру Прибуття надаються шаттли.
 ___
 If you need assistance – such as accommodation or basic services, please contact the Arrival Centre. This is located at [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). At the Arrival Centre you will be tested for the coronavirus and then registered. During registration you will have to show your passports or identity cards. You will then be taken to your accommodation. You will receive hygiene products, emergency care, a room and three meals a day. Over the next few days, you will receive information about the procedure for being granted a residence permit.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+You can reach Arrival Centre by taking public transport to the S-Bahn and U-Bahn station Karl-Bonhoeffer-Nervenklinik. As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn trains (suburban and underground trains) in Berlin free of charge. Shuttles are being provided from the main station (Hauptbahnhof) to the Arrival Centre.
 <br />
 <br />
 <br />
@@ -61,6 +63,12 @@ List of sites where you can find housing:<br />
 [https://hospitality-helps.org/](https://hospitality-helps.org/)<br />
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
 [https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
+<br />
+<br />
+<br />
+[Berliner Tiertafel](https://tiertafel.org/) (Берлінський харчовий банк для домашніх тварин) та Humane Society International підтримують людей, які втекли з України зі своїми домашніми тваринами, безкоштовним кормом, обладнанням та медичною допомогою.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+___
+[Berliner Tiertafel](https://tiertafel.org/) (Berlin food bank for pets) and Humane Society International are supporting people who have fled Ukraine with their pets with free pet food, equipment and medical treatment.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
 
 ## Громадський транспорт / Public transport
 Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
