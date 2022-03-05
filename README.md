@@ -14,6 +14,7 @@
 - [Робота для українців, постраждалих від війни / Work for Ukrainians affected by the war](#user-content-робота-для-українців-постраждалих-від-війни--work-for-ukrainians-affected-by-the-war)
 - [Допомога по прибуттю / Arriaval support](#user-content-допомога-по-прибуттю--arriaval-support)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
+- [Медична допомога / Medical care](#user-content-медична-допомога--medical-care)
 
 ## Віза і право на проживання / Visa and right of residence
 Вам, як українцю, загалом дозволено в’їжджати в Німеччину та Берлін без візи. Все, що вам потрібно, це біометричний паспорт. Якщо ви в’їжджаєте без візи, спочатку вам дозволено перебувати в Берліні до 31 травня 2022 року. Залежно від розвитку ситуації в Україні цей термін може бути продовжений. Зверніть увагу: дозвіл на тимчасове проживання до 31 травня 2022 року дійсний лише в Берліні. Якщо ви бажаєте залишитися в іншій федеральній землі, ви повинні повідомити відповідний орган реєстрації іноземців (Ausländerbehörde) там через 90 днів, щоб переконатися, що ви можете продовжувати залишатися.[[¹]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_1)
@@ -227,6 +228,13 @@ ___
 
 ## Допомога по прибуттю / Arriaval support
 [https://linktr.ee/michelledts](https://linktr.ee/michelledts)
+
+## Медична допомога / Medical care
+[Різні посилання](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
+[Безкоштовна психологічна підтримка](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
+___
+[Various links](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
+[Free psychological support](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
