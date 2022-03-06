@@ -15,6 +15,7 @@
 - [Робота для українців, постраждалих від війни / Work for Ukrainians affected by the war](#user-content-робота-для-українців-постраждалих-від-війни--work-for-ukrainians-affected-by-the-war)
 - [Допомога по прибуттю / Arriaval support](#user-content-допомога-по-прибуттю--arriaval-support)
 - [Медична допомога / Medical care](#user-content-медична-допомога--medical-care)
+- [Мобільний зв’язок / Mobile communication](#user-content-мобільний-звязок--mobile-communication)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -248,6 +249,58 @@ ___
 [Various links](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Free psychological support](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
 [Therapists for Ukraine](https://complicated.life/en/ukraine)
+
+## Мобільний зв’язок / Mobile communication
+Багато німецьких телефонних операторів заявили про готовність надавати безкоштовні телефонні дзвінки та текстові повідомлення в Україну, а також місцевий роумінг. Про це повідомляє портал порівняння “Verivox”.<br />
+Провайдери:
+___
+Many German telephone providers have declared their willingness to provide free telephone calls and text messages to the Ukraine, as well as local roaming. This is reported by the comparison portal “Verivox”.<br />
+These are the following providers:
+<br />
+
+- Deutsche Telekom
+- Vodafone
+- o2/Telefonica
+- Pyur
+- NetCologne
+- M-net
+- EWE
+- 1&1 (mit Drillisch-Discountern)
+- Freenet-Gruppe (mit Klarmobil und Mobilcom-Debitel)[[¹¹]](https://www.focus.de/digital/handy/telekom-vodafone-o2-fast-alle-deutschen-telefonanbieter-bieten-kostenlose-telefonate-und-sms-in-die-ukraine_id_61732398.html)
+<br />
+<br />
+
+Будинки біженців отримують безкоштовні SIM-карти та GigaCubes від Vodafone. Оператори будинків для біженців, які приймають українських біженців, телефонують на гарячу лінію швидкої допомоги в Україні. Там вони реєструються для об’єднання в мережу свого житла.<br />
+Гаряча лінія швидкої допомоги: 0800 – 505 47 45[[¹²]](https://www.vodafone.de/ukraine.html#text-only-1116914)
+___
+Refugee homes receive free SIM cards and GigaCubes from Vodafone. Operators of refugee homes who take in Ukrainian refugees simply call the Ukraine emergency aid hotline. There they register for the networking of their accommodations.<br />
+Emergency help hotline: 0800 – 505 47 45[[¹²]](https://www.vodafone.de/ukraine.html#text-only-1116914)
+<br />
+<br />
+
+### Мобільний контракт
+Одним із можливих варіантів є мобільний контракт. Однак для цього потрібні німецький банківський рахунок та документ, що посвідчує особу. Таким чином постачальники послуг перевіряють, чи дійсно клієнт може оплачувати свої рахунки. Це часто може бути важко для біженців. Увага: не підписуйте контракт, який ви не розумієте. Замість цього попросіть когось допомогти вам з перекладом.
+___
+### Mobile phone contract
+One possible option is a mobile phone contract. This, however, requires a German bank account and an identity document. In this way, service providers check whether a customer can really pay his bills. This can often be difficult for refugees. Caution: Do not sign a contract you do not understand. Instead, ask someone to help you with the translation.
+<br />
+<br />
+
+### Передплачена SIM-карта
+Передплачена SIM-карта – зручне рішення для біженців. Ці картки часто можна придбати за невеликі гроші в супермаркетах, АЗС або кіосках. Для цього потрібно підписати договір. Однак у цьому випадку вам потрібно лише вказати свою адресу для активації картки.<br />
+Ви ще не зареєстровані в Німеччині? Протягом перших трьох місяців після прибуття ви можете вказати адресу первісного прийому, де ви проживаєте. Як тільки ви переїхали в інше місце проживання, ви повинні повідомити свого провайдера про свою нову адресу. Якщо ви не повідомите свою нову адресу, вам буде надіслано SMS. Якщо ви не відповісте та не повідомите свого провайдера про нову адресу протягом 14 днів, SIM-картка може бути заблокована.<br />
+Ви перебуваєте в центрі первинного прийому більше трьох місяців? Тоді цей термін можна продовжити.<br />
+Ви купили передплачену SIM-карту безпосередньо в магазині провайдера? Тоді також можна активувати картку прямо в магазині. Тут ви також отримаєте допомогу.<br />
+Ви купили передплачену SIM-карту, наприклад, у супермаркеті? Потім картку необхідно активувати по телефону.<br />
+Після активації передплаченої SIM-картки необхідно додати кредит. Кредит необхідний для здійснення дзвінків, написання SMS та серфінгу в Інтернеті. Якщо вам потрібно більше кредиту, ви можете придбати картку поповнення. Картки поповнення доступні в тих же магазинах, що продають SIM-карти. На картці поповнення є довгий номер. Щоб поповнити свою передплачену картку, введіть цей номер у мобільний телефон.
+___
+### Prepaid SIM card
+A prepaid SIM card is a convenient solution for refugees. These cards can often be purchased for a small amount of money at supermarkets, petrol stations or kiosks. This again requires signing a contract. However, in this case you only need to provide your address to have the card activated.<br />
+Are you not yet registered in Germany? In the first three months after your arrival, you can state the address of the initial reception centre where you live. As soon as you have moved to a different accommodation facility, you must notify your provider of your new address. If you do not report your new address, you will be sent an SMS. If you do not respond and notify your service provider of your new address within 14 days, the SIM card could be locked.<br />
+Have you been staying at the initial reception centre for more than three months? Then this deadline can be extended.<br />
+Did you buy the prepaid SIM card directly in the shop of a mobile service provider? Then it is also possible to activate the card directly in the shop. Here you will also receive assistance.<br />
+Did you buy the prepaid SIM card in, for example, a supermarket? Then the card must be activated by phone.<br />
+Once the prepaid SIM card has been activated, you need to add credit. The credit is necessary for making calls, writing SMS and surfing the internet. If you need more credit, you can buy a top-up card. Top-up cards are available at the same shops that sell SIM Cards. There is a long number on the top-up card. To credit your prepaid card, enter this number into the mobile phone.
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
