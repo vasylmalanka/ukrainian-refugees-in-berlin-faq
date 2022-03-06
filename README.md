@@ -322,6 +322,12 @@ ___
 [Therapists for Ukraine](https://complicated.life/en/ukraine)
 
 ## Мобільний зв’язок / Mobile communication
+На [інформаційних точках](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc) часто видають безкоштовні німецькі сім-картки. Запитайте місцевих волонтерів.
+___
+Free German SIM cards are often issued at [information points](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc). Ask local volunteers.
+<br />
+<br />
+
 Багато німецьких телефонних операторів заявили про готовність надавати безкоштовні телефонні дзвінки та текстові повідомлення в Україну, а також місцевий роумінг. Про це повідомляє портал порівняння “Verivox”.<br />
 Провайдери:
 ___
