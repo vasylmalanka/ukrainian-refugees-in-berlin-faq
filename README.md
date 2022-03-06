@@ -142,6 +142,16 @@ ___
 Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
 
 ## Догляд за дітьми і навчання / Child care and education
+Гаряча німецька лінія для українців щодо вакцинації та запису дітей до школи (Gesundheitsamt Mitte): 004930901838111<br />
+Працює: Пн-пт 9:00-15:00<br />
+email: ukraine@ba-mitte.berlin.de
+___
+German hotline for vaccination and enrollment of children in school (Gesundheitsamt Mitte): 004930901838111 <br />
+Open: Mon-Fri 9:00-15:00 <br />
+email: ukraine@ba-mitte.berlin.de
+<br />
+<br />
+
 Берлін підтримує вас і ваших дітей численними пропозиціями:
 - За вашими маленькими дітьми можна, за бажанням, доглядати в дитячому садку. Тут вони можуть грати та навчатися разом з іншими дітьми. Вони знайдуть нових друзів у Kita і швидко вивчать німецьку мову. Це добре готує дітей до подальшого відвідування школи.
 - Якщо вашій дитині 6 років і більше, вона повинна відвідувати школу. Ми підтримаємо вас у пошуку відповідного навчального закладу. Поки ваша дитина ще не володіє німецькою мовою, вона спочатку відвідає вітальний клас, щоб набути мовних навичок. Після цього він або вона перейде в звичайний клас і братиме участь у звичайних уроках і повсякденному шкільному житті.
