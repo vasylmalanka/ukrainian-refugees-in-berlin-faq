@@ -31,14 +31,14 @@ If you are already in Berlin and do not have money, housing, food, clothing, ple
 <br />
 
 ### Інформаційні точки у Берліні (волонтерські):
-- Центральний автобусний вокзал (ZOB - Zentraler Omnibusbahnhof Berlin)
-- Головний Вокзал (HBF Berlin)
-- Südkreuz (велика станція швидкісних трамваїв)
+- [Центральний автобусний вокзал (ZOB - Zentraler Omnibusbahnhof Berlin)](https://goo.gl/maps/emexKBWrUKMfncEv5)
+- [Головний Вокзал (HBF Berlin)](https://goo.gl/maps/oGRNmueMF2YfQ9276)
+- [Südkreuz (велика станція швидкісних трамваїв)](https://goo.gl/maps/RMS5Btdi6dRR9Pmc8)
 ___
 ### Information points in Berlin (volunteer):
-- Central Bus Station (ZOB - Zentraler Omnibusbahnhof Berlin)
-- Central Station (HBF Berlin)
-- Südkreuz (large S-Bahn station)
+- [Central Bus Station (ZOB - Zentraler Omnibusbahnhof Berlin)](https://goo.gl/maps/emexKBWrUKMfncEv5)
+- [Central Station (HBF Berlin)](https://goo.gl/maps/oGRNmueMF2YfQ9276)
+- [Südkreuz (large S-Bahn station)](https://goo.gl/maps/RMS5Btdi6dRR9Pmc8)
 
 ## Віза і право на проживання / Visa and right of residence
 Вам, як українцю, загалом дозволено в’їжджати в Німеччину та Берлін без візи. Все, що вам потрібно, це біометричний паспорт. Якщо ви в’їжджаєте без візи, спочатку вам дозволено перебувати в Берліні до 31 травня 2022 року. Залежно від розвитку ситуації в Україні цей термін може бути продовжений. Зверніть увагу: дозвіл на тимчасове проживання до 31 травня 2022 року дійсний лише в Берліні. Якщо ви бажаєте залишитися в іншій федеральній землі, ви повинні повідомити відповідний орган реєстрації іноземців (Ausländerbehörde) там через 90 днів, щоб переконатися, що ви можете продовжувати залишатися.[[¹]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_1)
