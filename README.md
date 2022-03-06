@@ -18,6 +18,7 @@
 - [Медична допомога / Medical care](#user-content-медична-допомога--medical-care)
 - [Мобільний зв’язок / Mobile communication](#user-content-мобільний-звязок--mobile-communication)
 - [Безкоштовна їжа / Free food](#user-content-безкоштовна-їжа--free-food)
+- [Ваша безпека та безпека дітей / Your safety and the safety of children](#user-content-ваша-безпека-та-безпека-дітей--your-safety-and-the-safety-of-children)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)
@@ -358,6 +359,53 @@ Once the prepaid SIM card has been activated, you need to add credit. The credit
 В Берліні багато років діє рух "фудшерінг" - надання їжі з кафе, готелів, магазинів в кінці робочого дня. [Тут](https://foodsharing.de/?page=fairteiler&bid=47) можна знайти місця роздачі їжі і перевірити наявність продуктів.
 ___
 For many years, the "food sharing" movement has been operating in Berlin - providing food from cafes, hotels and shops at the end of the working day. [Here](https://foodsharing.de/?page=fairteiler&bid=47) you can find places to distribute food and check for food availablity.
+
+## Ваша безпека та безпека дітей / Your safety and the safety of children
+Номер поліції Німеччини 110
+___
+German police number is 110
+<br />
+<br />
+
+У випадках сексуального насилля або домашнього насилля дзвоніть:
+- +49 800 22 55 530 (Пн, ср, пт 9:00-14:00 Вт, чт 15:00-20:00)
+- +49 8000 116 016 (Цілодобово)
+___
+In cases of sexual or domestic violence, call:
+- +49 800 22 55 530 (Mon, Wed, Fri 9:00-14:00 Tue, Thu 15:00-20:00)
+- +49 8000 116 016 (24 hours a day)
+<br />
+<br />
+
+Якщо ви бачите дитину-сироту з України, або дитину без супроводу дорослих, звертайтесь в EAC:  Prinzregentenstrasse 24, 10715 Berlin<br />
+<br />
+Організація, що займається правами дітей "Safe the children":<br />
+Адреса: Seesener Straße 10-13, 10709 Berlin<br />
+Телефон: 030-27595979-0<br />
+email: [info@savethechildren.de](mailto:info@savethechildren.de)
+___
+If you see an orphan from Ukraine or an unaccompanied child, contact the EAC: Prinzregentenstrasse 24, 10715 Berlin<br />
+<br />
+Children's rights organization "Safe the children":<br />
+Address: Seesener Straße 10-13, 10709 Berlin<br />
+Phone: 030-27595979-0 <br />
+email: [info@savethechildren.de](mailto:info@savethechildren.de)
+<br />
+<br />
+
+Якщо ви приїхали з дитиною своїх знайомих, близьких тощо в жодному разі не віддавайте її в руки третіх осіб. Почекайте поки уряд Німеччини створить офіційну процедуру передачі на опікунство, якщо у цьому є необхідність.
+___
+If you come with a child of your acquaintances, relatives, etc. in any case do not give it into the hands of third parties. Wait until the German government creates a formal transfer procedure, if necessary.
+<br />
+<br />
+
+Допомога спільноті ЛГБТ+ від Voices4:<br />
+email: [voices4berlin@gmail.com](mailto:voices4berlin@gmail.com)<br />
+Instagram: [@voices4berlin](https://www.instagram.com/voices4berlin/?hl=en)
+___
+Help for the LGBT+ community from Voices4:<br />
+email: [voices4berlin@gmail.com](mailto:voices4berlin@gmail.com)<br />
+Instagram: [@voices4berlin](https://www.instagram.com/voices4berlin/?hl=en)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
