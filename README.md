@@ -16,6 +16,7 @@
 - [Допомога по прибуттю / Arriaval support](#user-content-допомога-по-прибуттю--arriaval-support)
 - [Медична допомога / Medical care](#user-content-медична-допомога--medical-care)
 - [Мобільний зв’язок / Mobile communication](#user-content-мобільний-звязок--mobile-communication)
+- [Безкоштовна їжа / Free food](#user-content-безкоштовна-їжа--free-food)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Віза і право на проживання / Visa and right of residence
@@ -301,6 +302,11 @@ Have you been staying at the initial reception centre for more than three months
 Did you buy the prepaid SIM card directly in the shop of a mobile service provider? Then it is also possible to activate the card directly in the shop. Here you will also receive assistance.<br />
 Did you buy the prepaid SIM card in, for example, a supermarket? Then the card must be activated by phone.<br />
 Once the prepaid SIM card has been activated, you need to add credit. The credit is necessary for making calls, writing SMS and surfing the internet. If you need more credit, you can buy a top-up card. Top-up cards are available at the same shops that sell SIM Cards. There is a long number on the top-up card. To credit your prepaid card, enter this number into the mobile phone.
+
+## Безкоштовна їжа / Free food
+В Берліні багато років діє рух "фудшерінг" - надання їжі з кафе, готелів, магазинів в кінці робочого дня. [Тут](https://foodsharing.de/?page=fairteiler&bid=47) можна знайти місця роздачі їжі і перевірити наявність продуктів.
+___
+For many years, the "food sharing" movement has been operating in Berlin - providing food from cafes, hotels and shops at the end of the working day. [Here](https://foodsharing.de/?page=fairteiler&bid=47) you can find places to distribute food and check for food availablity.
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
