@@ -137,9 +137,42 @@ You can get tested for the coronavirus free of charge at [numerous test centres]
 <br />
 
 Біженці з України також незабаром отримають можливість зробити щеплення від коронавірусу. Додаткова інформація з цього приводу буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5).
-
+### Вакцинація від COVID-19 (безкоштовно):
+10 березня у Посольстві Україні з 17:00 вакцинують від Covid-19 всіх громадян України віком від 5 років.<br />
+Адреса: Albrechtstraße 26, 10117 Berlin<br />
+<br />
+Від 14 березня працюватиме центр вакцинації для громадян України.<br />
+Адреса: Turmstrasse 21, Haus B<br />
+Працює: Пн-пт 10:00-14:00<br />
+<br />
+Гаряча німецька лінія для українців щодо вакцинації та запису дітей до школи (Gesundheitsamt Mitte): 004930901838111<br />
+Працює: Пн-пт 9:00-15:00<br />
+email: [ukraine@ba-mitte.berlin.de](mailto:ukraine@ba-mitte.berlin.de)
 ___
 Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
+### Vaccination from COVID-19 (free):
+All citizens of Ukraine aged 5 and older will be vaccinated against Covid-19 on March 10 at 5 pm at the Embassy of Ukraine.<br />
+Address: Albrechtstraße 26, 10117 Berlin<br />
+<br />
+The vaccination center for citizens of Ukraine will be open from March 14.<br />
+Address: Turmstrasse 21, Haus B<br />
+Open: Mon-Fri 10:00-14:00<br />
+<br />
+German hotline for vaccination and enrollment of children in school (Gesundheitsamt Mitte): 004930901838111<br />
+Open: Mon-Fri 9:00-15:00<br />
+email: [ukraine@ba-mitte.berlin.de](mailto:ukraine@ba-mitte.berlin.de)
+<br />
+<br />
+
+### Що таке 2G та 3G?
+- 2G означає, що доступ мають лише повністю вакциновані особи, та особи, що перехворіли на ковід протягом останніх 3 місяців.
+- 2G+ означає, що доступ мають лише повністю вакциновані особи, та особи, що перехворіли на ковід протягом останніх 3 місяців + зробили безкоштовний швидкий тест на COVID-19 протягом останніх 24 годин і результат був негативний. Такий тест робиться в спеціальних Testzentrum, які можна знайти у кожному місті Німеччини.
+- 3G означає, що усі особи можуть брати участь. Проте невакциновані особи повинні показати негативний результат швидкого тесту на COVID-19.
+___
+### What is 2G and 3G?
+- 2G means that only fully vaccinated persons and persons who have relapsed with covid for the last 3 months have access.
+- 2G+ means that only fully vaccinated people have access, and people who have relapsed with covid during the last 3 months + have taken a free rapid test for COVID-19 in the last 24 hours and the result was negative. This test can be done in a special Testzentrum, which can be found in every city in Germany.
+- 3G means that everyone can participate. However, unvaccinated individuals should show a negative COVID-19 rapid test result.
 
 ## Догляд за дітьми і навчання / Child care and education
 Гаряча німецька лінія для українців щодо вакцинації та запису дітей до школи (Gesundheitsamt Mitte): 004930901838111<br />
