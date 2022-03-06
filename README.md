@@ -3,6 +3,7 @@
 | --- |
 
 ## Зміст / Table of contents
+- [Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc)
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum](#user-content-реєстрація-в-органах-влади-та-подання-заявки-про-притулок--registering-with-the-authorities-and-applying-for-asylum)
 - [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
@@ -18,6 +19,13 @@
 - [Мобільний зв’язок / Mobile communication](#user-content-мобільний-звязок--mobile-communication)
 - [Безкоштовна їжа / Free food](#user-content-безкоштовна-їжа--free-food)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
+
+## Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)
+Коли ви заповните [цю форму](https://cloud.seatable.io/dtable/forms/a688dbf1-95e9-4d43-adaa-be27abcf48e1/), ваша інформація буде надана групі, яка координує волонтерів, які допоможуть вам знайти житло, транспорт, перекладачів та іншу підтримку у Берліні.<br />
+Якщо ви вже у Берліні і у вас немає грошей, житла, їжі, одягу, звертайтесь, будь ласка, до [Центру прийому біженців](#user-content-пошук-житла--looking-for-housing).
+___
+When you fill out [this form](https://cloud.seatable.io/dtable/forms/a688dbf1-95e9-4d43-adaa-be27abcf48e1/), your information will be made available to a group which is coordinating volunteers who will help you find accommodation, transport, translation, and other support in Berlin.<br />
+If you are already in Berlin and do not have money, housing, food, clothing, please contact the [Refugee Reception Center](#user-content-пошук-житла--looking-for-housing).
 
 ## Віза і право на проживання / Visa and right of residence
 Вам, як українцю, загалом дозволено в’їжджати в Німеччину та Берлін без візи. Все, що вам потрібно, це біометричний паспорт. Якщо ви в’їжджаєте без візи, спочатку вам дозволено перебувати в Берліні до 31 травня 2022 року. Залежно від розвитку ситуації в Україні цей термін може бути продовжений. Зверніть увагу: дозвіл на тимчасове проживання до 31 травня 2022 року дійсний лише в Берліні. Якщо ви бажаєте залишитися в іншій федеральній землі, ви повинні повідомити відповідний орган реєстрації іноземців (Ausländerbehörde) там через 90 днів, щоб переконатися, що ви можете продовжувати залишатися.[[¹]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_1)
