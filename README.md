@@ -234,7 +234,8 @@ ___
 [Телеграм канал з юридичною консультацією для біженців з України](https://t.me/ukrasylumrefugee)
 
 ## Робота для українців, постраждалих від війни / Work for Ukrainians affected by the war
-[https://hireforukraine.org/](https://hireforukraine.org/)
+[https://hireforukraine.org/](https://hireforukraine.org/)<br />
+[https://www.jobaidukraine.com/](https://www.jobaidukraine.com/)
 
 ## Допомога по прибуттю / Arriaval support
 [https://linktr.ee/michelledts](https://linktr.ee/michelledts)
