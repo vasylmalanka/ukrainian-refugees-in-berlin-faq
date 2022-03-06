@@ -56,6 +56,12 @@ EU-wide efforts are currently underway to clarify the official residence status 
 ___
 If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
 However, if you need social benefits (financial support, medical care, housing), you should register. Then you have a legal right to state support.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_4)
+<br />
+<br />
+
+Німецька організація, збирає інформацію та пояснює закони щодо статусу українців за [посиланням](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#U).
+___
+German organization collects information and explains laws on the status of Ukrainians by [link](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH)
 
 ## Дозвіл на роботу / Work permit
 Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4)
