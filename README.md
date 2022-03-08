@@ -372,6 +372,7 @@ Refugees with disabilities can apply for necessary aids and treatments. The cent
 <br />
 <br />
 
+[Безкоштовна швидка допомога українцям, які потребують опіки](https://www.health-h.de/en/health4ukraine)<br />
 [Різні посилання](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Терапевти для України](https://complicated.life/en/ukraine)<br />
 [Психологічні консультації для дітей українською та російською мовами](https://krisenchat.de/ukraine)<br />
@@ -379,6 +380,7 @@ Refugees with disabilities can apply for necessary aids and treatments. The cent
 [Безкоштовна психологічна підтримка](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
 Гаряча лінія психологічної підтримки: 06926526256
 ___
+[Free fast help for Ukrainian people in need of care](https://www.health-h.de/en/health4ukraine)<br />
 [Various links](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Therapists for Ukraine](https://complicated.life/en/ukraine)<br />
 [Psychological Counseling for Children in Ukrainian and Russian language](https://krisenchat.de/ukraine)<br />
