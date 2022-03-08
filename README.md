@@ -313,6 +313,32 @@ ___
 [https://linktr.ee/michelledts](https://linktr.ee/michelledts)
 
 ## Медична допомога / Medical care
+У великих притулках медичне забезпечення надається біженцям безпосередньо на місцях у «медпунктах». Окрім цього, біженцям пропонується медичне лікування. Такі установи допоможуть Вам якнайшвидше отримати доступ до необхідного лікування:<br />
+[Берлінська мережа біженців, які потребують особливого захисту](https://www.ueberleben.org/en/home-en/) (Berliner Netzwerk für besonders schutzbedürftige Flüchtlinge)<br />
+[Центр допомоги особам, які не мають медичного страхування](https://www.charite.de/en/clinical_center/themes_hospital/the_charite_hilft_charite_helps_community_outreach_program/) (Clearingstelle für nicht krankenversicherte Menschen)<br />
+[Ксеніон](https://www.xenion.org/angebote/) (Xenion e.V.)<br />
+[Центр виживання](https://www.ueberleben.org/en/our-work/department-refugee-services/) (Zentrum Überleben)[[¹³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_3)
+___
+At large accommodation shelters, medical care for refugees is provided directly on site at the “MedPoints”. Medical treatments are also available for refugees. The following institutions will help you to access the treatment you need as quickly as possible:<br />
+[Berlin Network for Especially Vulnerable Refugees](https://www.ueberleben.org/en/home-en/) (Berliner Netzwerk für besonders schutzbedürftige Flüchtlinge)<br />
+[Clearing house for persons without health insurance](https://www.berliner-stadtmission.de/en/clearingstelle)<br />
+[Xenion e.V.](https://www.xenion.org/angebote/)<br />
+[Centre for Survival](https://www.ueberleben.org/en/home-en/) (Zentrum Überleben)[[¹³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_3)
+<br />
+<br />
+
+Вагітні жінки, які щойно прибули з України і ще не мають медичного страхування, можуть пройти гінекологічне обстеження або допологовий нагляд за вагітністю в центрах сексуального здоров’я і планування сім’ї. Для цього необхідно записатися не прийняття по телефону. Центри розташовані у п’яти районах: [Шарлоттенбург-Вільмерсдорф](https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/gesundheit/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/), [Фрідріхсгайн-Кройцберг](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/), [Марцан-Геллерсдорф](https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/gesundheitsamt/sexualitaet-und-familienplanung/), [Мітте](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.106172.php), [Штегліц-Целендорф](https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-familienplanung/artikel.29766.php) (Charlottenburg-Wilmersdorf, Friedrichshain-Kreuzberg, Marzahn-Hellersdorf, Mitte, Steglitz-Zehlendorf).[[¹³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_3)
+___
+Pregnant women who have just arrived from Ukraine and do not have health insurance yet can get a gynaecological examination, or antenatal check-up at the sexual health and family planning centres (Zentren für sexuelle Gesundheit und Familienplanung). You will need to make an appointment by telephone. There are centres at five locations: [Charlottenburg-Wilmersdorf](https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/gesundheit/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/), [Friedrichshain-Kreuzberg](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/), [Marzahn-Hellersdorf](https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/gesundheitsamt/sexualitaet-und-familienplanung/), [Mitte](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.106172.php) and [Steglitz-Zehlendorf](https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-familienplanung/artikel.29766.php).[[¹³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_3)
+<br />
+<br />
+
+Біженці з інвалідністю можуть подати заявку на отримання необхідних допоміжних засобів. Центральним пунктом для них є [Берлінський центр самостійного життя](http://www.bzsl.de/bns.html) (Berliner Zentrum für Selbstbestimmtes Leben e.V.).[[¹³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_3)
+___
+Refugees with disabilities can apply for necessary aids and treatments. The central point of contact is the [Berlin Centre for Self-Determined Living](http://www.bzsl.de/bns.html) (Berliner Zentrum für Selbstbestimmtes Leben e.V.).[[¹³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_3)
+<br />
+<br />
+
 [Різні посилання](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
 [Терапевти для України](https://complicated.life/en/ukraine)<br />
 [Безкоштовна психологічна підтримка](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
