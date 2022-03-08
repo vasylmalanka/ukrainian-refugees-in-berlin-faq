@@ -129,6 +129,8 @@ List of sites where you can find housing:
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
 [https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
 [https://www.ukrainenow.org/looking-for-help-abroad](https://www.ukrainenow.org/looking-for-help-abroad)
+[https://visit.numastays.com/uk/ukraine_support/](https://visit.numastays.com/uk/ukraine_support/)
+[https://m.facebook.com/groups/3413735175520899/](https://m.facebook.com/groups/3413735175520899/)
 <br />
 <br />
 <br />
