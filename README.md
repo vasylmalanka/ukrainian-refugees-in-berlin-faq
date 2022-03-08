@@ -60,7 +60,13 @@ If you do not have a biometric passport, you need a Schengen visa to enter Germa
 ## Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum
 Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
 ___
-Fragen und Antworten zur Einreise aus der Ukraine und zum Aufenthalt in Deutschland (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
+Questions and answers about entering Germany from Ukraine and staying in Germany (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
+<br />
+<br />
+
+Інформація щодо реєстрації та заяви на отримання пільг в Берліні: [https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#i](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#i)
+___
+Information on registration and applications for benefits in Berlin: [https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH)
 <br />
 <br />
 
