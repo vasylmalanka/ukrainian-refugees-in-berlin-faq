@@ -2,6 +2,9 @@
 | інформація оновлюється / information is being updated |
 | --- |
 
+### Телеграм чат для допомоги біженцям в Берліні / Telegram chat for refugees in Berlin
+[https://t.me/+pY4AEUY_0jZhMzQ0](https://t.me/+pY4AEUY_0jZhMzQ0)
+
 ## Зміст / Table of contents
 - [Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc)
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
