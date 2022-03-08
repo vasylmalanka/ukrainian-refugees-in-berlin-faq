@@ -314,12 +314,15 @@ ___
 
 ## Медична допомога / Medical care
 [Різні посилання](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
+[Терапевти для України](https://complicated.life/en/ukraine)<br />
 [Безкоштовна психологічна підтримка](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
-[Терапевти для України](https://complicated.life/en/ukraine)
+Гаряча лінія психологічної підтримки: 06926526256
 ___
 [Various links](https://docs.google.com/document/d/1nOzVdntfAGZy0Pn6SIm_TmeSJcBH3nRpEIGt1xVicI0)<br />
+[Therapists for Ukraine](https://complicated.life/en/ukraine)<br />
 [Free psychological support](https://www.linkedin.com/feed/update/urn:li:activity:6903989425450418176/)<br />
-[Therapists for Ukraine](https://complicated.life/en/ukraine)
+Psychological support hotline: 06926526256
+
 
 ## Мобільний зв’язок / Mobile communication
 На [інформаційних точках](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc) часто видають безкоштовні німецькі сім-картки. Запитайте місцевих волонтерів.
