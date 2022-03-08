@@ -41,6 +41,12 @@ ___
 - [Südkreuz (large S-Bahn station)](https://goo.gl/maps/RMS5Btdi6dRR9Pmc8)
 
 ## Віза і право на проживання / Visa and right of residence
+Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
+___
+Fragen und Antworten zur Einreise aus der Ukraine und zum Aufenthalt in Deutschland (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
+<br />
+<br />
+
 Вам, як українцю, загалом дозволено в’їжджати в Німеччину та Берлін без візи. Все, що вам потрібно, це біометричний паспорт. Якщо ви в’їжджаєте без візи, спочатку вам дозволено перебувати в Берліні до 31 травня 2022 року. Залежно від розвитку ситуації в Україні цей термін може бути продовжений. Зверніть увагу: дозвіл на тимчасове проживання до 31 травня 2022 року дійсний лише в Берліні. Якщо ви бажаєте залишитися в іншій федеральній землі, ви повинні повідомити відповідний орган реєстрації іноземців (Ausländerbehörde) там через 90 днів, щоб переконатися, що ви можете продовжувати залишатися.[[¹]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_1)
 ___
 As a Ukrainian you are generally allowed to enter Germany and Berlin without a visa. All you need is a biometric passport. If you enter without a visa, you are initially allowed to stay in Berlin until 31 May 2022. Depending on how the situation in Ukraine develops, this period may be extended. Please note: The temporary residence permit lasting until 31 May 2022 is only valid in Berlin. If you wish to stay in another federal state, you must report to the relevant Foreigners Registration Authority (Ausländerbehörde) there after 90 days in order to ensure you can continue to stay.[[¹]](https://www.berlin.de/ukraine/en/arrive/#headline_1_1)
@@ -52,6 +58,12 @@ ___
 If you do not have a biometric passport, you need a Schengen visa to enter Germany. This also applies to people from other countries with residence in Ukraine – such as students from third countries. You can apply for a Schengen visa at the [German missions abroad](https://www.auswaertiges-amt.de/en/about-us/auslandsvertretungen/deutsche-auslandsvertretungen) in Ukraine’s neighbouring countries. The visa is initially valid for 90 days and then has to be extended. You can [apply for an extension of your Schengen visa](https://service.berlin.de/dienstleistung/324785/en/) on humanitarian grounds.[[¹]](https://www.berlin.de/ukraine/en/arrive/#headline_1_1)
 
 ## Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum
+Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
+___
+Fragen und Antworten zur Einreise aus der Ukraine und zum Aufenthalt in Deutschland (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
+<br />
+<br />
+
 Оскільки ви є громадянином України з біометричним паспортом або шенгенською візою і перебуваєте в Німеччині на законних підставах, вам не потрібно спочатку реєструватися в органах влади або подавати заяву на отримання політичного притулку (азиль).[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
 ___
 Since you are a Ukrainian citizen with a biometric passport or Schengen visa residing in Germany legally, you do not have to register with the authorities or apply for asylum initially.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
