@@ -45,6 +45,16 @@ ___
 - [Südkreuz (large S-Bahn station)](https://goo.gl/maps/RMS5Btdi6dRR9Pmc8)
 
 ## Віза і право на проживання / Visa and right of residence
+**Увага!** Вам не потрібно подавати заяву на отримання політичного притулку (азиль ASYL) чи отримувати статус біженця. Статус ASYL передбачатиме обмеження ваших прав, як біженця в Німеччині.<br />
+Для українців розроблена окрема процедура відповідно до § 24 AufenthG у спрощеному порядку. Називається “Надання місця проживання для тимчасового захисту” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). Для цього вам потрібно буде зареєструватись. Станом на 7.03 закон ще не набрав чинності.<br />
+Інформація буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
+___
+**Attention!** You do not need to apply for political asylum (ASYL asylum) or refugee status. ASYL status will restrict your rights as a refugee in Germany.<br />
+A separate procedure has been developed for Ukrainians in accordance with § 24 AufenthG in a simplified manner. It is called “Provision of residence for temporary protection” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). To do this, you will need to register. As of March 7, the law has not yet entered into force.<br />
+Information will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+<br />
+<br />
+
 Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
 ___
 Fragen und Antworten zur Einreise aus der Ukraine und zum Aufenthalt in Deutschland (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
@@ -62,6 +72,16 @@ ___
 If you do not have a biometric passport, you need a Schengen visa to enter Germany. This also applies to people from other countries with residence in Ukraine – such as students from third countries. You can apply for a Schengen visa at the [German missions abroad](https://www.auswaertiges-amt.de/en/about-us/auslandsvertretungen/deutsche-auslandsvertretungen) in Ukraine’s neighbouring countries. The visa is initially valid for 90 days and then has to be extended. You can [apply for an extension of your Schengen visa](https://service.berlin.de/dienstleistung/324785/en/) on humanitarian grounds.[[¹]](https://www.berlin.de/ukraine/en/arrive/#headline_1_1)
 
 ## Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum
+**Увага!** Вам не потрібно подавати заяву на отримання політичного притулку (азиль ASYL) чи отримувати статус біженця. Статус ASYL передбачатиме обмеження ваших прав, як біженця в Німеччині.<br />
+Для українців розроблена окрема процедура відповідно до § 24 AufenthG у спрощеному порядку. Називається “Надання місця проживання для тимчасового захисту” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). Для цього вам потрібно буде зареєструватись. Станом на 7.03 закон ще не набрав чинності.<br />
+Інформація буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
+___
+**Attention!** You do not need to apply for political asylum (ASYL asylum) or refugee status. ASYL status will restrict your rights as a refugee in Germany.<br />
+A separate procedure has been developed for Ukrainians in accordance with § 24 AufenthG in a simplified manner. It is called “Provision of residence for temporary protection” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). To do this, you will need to register. As of March 7, the law has not yet entered into force.<br />
+Information will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+<br />
+<br />
+
 Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
 ___
 Questions and answers about entering Germany from Ukraine and staying in Germany (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
@@ -80,16 +100,16 @@ Since you are a Ukrainian citizen with a biometric passport or Schengen visa res
 <br />
 <br />
 <br />
-Наразі в ЄС докладаються зусилля щодо роз’яснення офіційного статусу проживання громадян України. Однією з можливостей, що обговорюються, є застосування положення про «тимчасовий захист» відповідно до Директиви 2001/55/EC. Інформація про поточні події буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4).
+Наразі в ЄС докладаються зусилля щодо роз’яснення офіційного статусу проживання громадян України. Однією з можливостей, що обговорюються, є застосування положення про «тимчасовий захист» відповідно до Директиви 2001/55/EC. Інформація про поточні події буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5).
 ___
-EU-wide efforts are currently underway to clarify the official residence status of people from Ukraine. One possibility being discussed is applying the “temporary protection” clause under Directive 2001/55/EC. Information on current developments will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_4).
+EU-wide efforts are currently underway to clarify the official residence status of people from Ukraine. One possibility being discussed is applying the “temporary protection” clause under Directive 2001/55/EC. Information on current developments will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
 <br />
 <br />
 <br />
-Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання політичного притулку (азиль). Прохання про надання політичного притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4)
+Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання політичного притулку (азиль). Прохання про надання політичного притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
 ___
-If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
-However, if you need social benefits (financial support, medical care, housing), you should register. Then you have a legal right to state support.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_4)
+If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+However, if you need social benefits (financial support, medical care, housing), you should register. Then you have a legal right to state support.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_5)
 <br />
 <br />
 
@@ -98,10 +118,10 @@ ___
 German organization collects information and explains laws on the status of Ukrainians by [link](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH)
 
 ## Дозвіл на роботу / Work permit
-Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_4)
-Однак, якщо вам потрібні соціальні виплати (матеріальна підтримка, медичне обслуговування, житло), вам слід зареєструватися. Тоді у вас є законне право на державну підтримку.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_4)
+Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
+Однак, якщо вам потрібні соціальні виплати (матеріальна підтримка, медичне обслуговування, житло), вам слід зареєструватися. Тоді у вас є законне право на державну підтримку.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_5)
 ___
-Labour law aspects are also currently still being clarified. If you entered Germany without a visa or on a Schengen visa, you are initially not allowed to work. If you have a long-term visa or national visa or a work visa for Germany, you are allowed to work.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_4)
+Labour law aspects are also currently still being clarified. If you entered Germany without a visa or on a Schengen visa, you are initially not allowed to work. If you have a long-term visa or national visa or a work visa for Germany, you are allowed to work.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
 
 ## Пошук житла / Looking for housing
 Якщо вам потрібна допомога – наприклад, з проживанням або з базовими потребами, будь ласка, зв’яжіться з Центром Прибуття. Він розташований за адресою [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). У Центрі Прибуття вас протестують на коронавірус, а потім зареєструють. Під час реєстрації необхідно пред'явити паспорт або посвідчення особи. Після цього вас відвезуть до місця проживання. Ви отримаєте засоби гігієни, невідкладну допомогу, кімнату та триразове харчування. Протягом наступних днів ви отримаєте інформацію про порядок отримання посвідки на проживання.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
@@ -178,17 +198,17 @@ Deutsche Bahn provides information for refugees and other people on the website 
 - Правило 3G в громадському транспорті (3G = протестований, перехворівший або вакцинований). Для того, щоб користуватися громадським транспортом, Ви маєте бути або вакциновані, недавно перехворіти на ковід, або мати негативний результат тест зробленого протягом останніх 48-и годин. Крім того, в транспорті треба носити маску FFP2. Маски вам видадуть в Центрі прийому біженців.
 - У магазинах та супермаркетах ви зобов’язані носити маску FFP2.
 - У переважній більшості будівель потрібно носити медичну маску.
-Безкоштовний тест на ковід можна зробити в [численних пунктах тестування](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
+Безкоштовний тест на ковід можна зробити в [численних пунктах тестування](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_6)
 ___
 Special measures and rules for how to behave are currently in place in Berlin due to the corona pandemic. [Here](https://www.berlin.de/corona/en/measures/) is an overview of the current rules. The most important points relate to:
 - 3G rule on public transport (3G = tested, recovered or vaccinated): If you have not been vaccinated against the coronavirus or have not recently recovered from Covid19, you must have proof of a current corona test with you when using public transport. You must also wear an FFP2 mask. You will be provided with this at the Arrival Centre.
 - FFP2 mask requirement: You must wear an FFP2 mask in supermarkets and shops.
 - Mask requirement in buildings: In most buildings you must wear a medical face mask or surgical mask.
-You can get tested for the coronavirus free of charge at [numerous test centres](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+You can get tested for the coronavirus free of charge at [numerous test centres](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/en/arrive/#headline_1_6)
 <br />
 <br />
 
-Біженці з України також незабаром отримають можливість зробити щеплення від коронавірусу. Додаткова інформація з цього приводу буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5).
+Біженці з України також незабаром отримають можливість зробити щеплення від коронавірусу. Додаткова інформація з цього приводу буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_6).
 ### Вакцинація від COVID-19 (безкоштовно):
 10 березня у Посольстві Україні з 17:00 вакцинують від Covid-19 всіх громадян України віком від 5 років.<br />
 Адреса: Albrechtstraße 26, 10117 Berlin<br />
@@ -201,7 +221,7 @@ You can get tested for the coronavirus free of charge at [numerous test centres]
 Працює: Пн-пт 9:00-15:00<br />
 email: [ukraine@ba-mitte.berlin.de](mailto:ukraine@ba-mitte.berlin.de)
 ___
-Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
+Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_6).
 ### Vaccination from COVID-19 (free):
 All citizens of Ukraine aged 5 and older will be vaccinated against Covid-19 on March 10 at 5 pm at the Embassy of Ukraine.<br />
 Address: Albrechtstraße 26, 10117 Berlin<br />
