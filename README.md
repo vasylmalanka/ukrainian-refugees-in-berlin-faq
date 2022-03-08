@@ -19,6 +19,7 @@
 - [Мобільний зв’язок / Mobile communication](#user-content-мобільний-звязок--mobile-communication)
 - [Безкоштовна їжа / Free food](#user-content-безкоштовна-їжа--free-food)
 - [Ваша безпека та безпека дітей / Your safety and the safety of children](#user-content-ваша-безпека-та-безпека-дітей--your-safety-and-the-safety-of-children)
+- [Соціальна адаптація українців / Social adaptation for Ukrainians](#user-content-соціальна-адаптація-українців--social-adaptation-for-ukrainians)
 - [Як я можу додати інформацію? / How can I add information?](#user-content-як-я-можу-додати-інформацію--how-can-i-add-information)
 
 ## Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)
@@ -497,6 +498,9 @@ ___
 Help for the LGBT+ community from Voices4:<br />
 email: [voices4berlin@gmail.com](mailto:voices4berlin@gmail.com)<br />
 Instagram: [@voices4berlin](https://www.instagram.com/voices4berlin/?hl=en)
+
+## Соціальна адаптація українців / Social adaptation for Ukrainians
+[https://t.me/BerlinUkraineSocialAdaptation (Telegram)](https://t.me/BerlinUkraineSocialAdaptation)
 
 ## Як я можу додати інформацію? / How can I add information?
 Зв’яжіться зі мною - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
