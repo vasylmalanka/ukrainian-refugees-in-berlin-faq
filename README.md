@@ -151,6 +151,12 @@ ___
 You can travel with your Ukrainian passport/ID card to Berlin, Dresden, Nuremberg and Munich. You do not need a ticket.<br />
 If you wish to continue your journey, you can get a free "helpukraine" ticket valid in 2nd class to your desired destination at a DB Reisezentrum (DB Travel Centre) or at a DB agency. Please show your Ukrainian ID (passport/ ID card) to the ticket inspector on the train upon request.[[¹⁰]](https://www.bahn.de/info/helpukraine#en)<br />
 More information can be found [here](https://www.bahn.de/info/helpukraine#en).
+<br />
+<br />
+
+Для біженців та їх родичів «Deutsche Bahn» також надає необхідну інформацію на веб-сторінці [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#ukr) та на гарячій лінії обслуговування клієнтів за номером 030 2970 (для дзвінків з Німеччини), де можна отримати інформацію на різних мовах.[[¹⁴]](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)
+___
+Deutsche Bahn provides information for refugees and other people on the website [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#en) and can also help people via the customer hotline 030 2970 in several languages.[[¹⁴]](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)
 
 ## Ситуація з коронавірусом в Берліні / Corona situation in Berlin
 В зв’язку з пандемією коронавірусу в Берліні зараз діють особливі правила поведінки та вживаються особливі заходи. [Тут](https://www.berlin.de/corona/en/measures/) ви знайдете перелік діючих правил. Найважливіші з них:
