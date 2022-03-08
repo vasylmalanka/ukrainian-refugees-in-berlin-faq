@@ -121,16 +121,19 @@ List of sites where you can find housing:
 [https://www.facebook.com/groups/651515972969783/](https://www.facebook.com/groups/651515972969783/)<br />
 [https://wunderflats.com/page/ukraine/tenants-in-need-en](https://wunderflats.com/page/ukraine/tenants-in-need-en)<br />
 [https://t.me/+pY4AEUY_0jZhMzQ0 (Telegram)](https://t.me/+pY4AEUY_0jZhMzQ0)<br />
+[https://t.me/uaprivatehousingsupport (Telegram)](https://t.me/uaprivatehousingsupport)<br />
 [https://www.immobilienscout24.de/lp/hilfe-fuer-die-ukraine.html](https://www.immobilienscout24.de/lp/hilfe-fuer-die-ukraine.html)<br />
 [https://helppeopleleaveukraine.org/posting-category/accommodation](https://helppeopleleaveukraine.org/posting-category/accommodation)<br />
 [https://warmes-bett.de/](https://warmes-bett.de/)<br />
 [https://icanhelp.host/](https://icanhelp.host/)<br />
 [https://hospitality-helps.org/](https://hospitality-helps.org/)<br />
 [https://everybedhelps.com/](https://everybedhelps.com/)<br />
-[https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)
-[https://www.ukrainenow.org/looking-for-help-abroad](https://www.ukrainenow.org/looking-for-help-abroad)
-[https://visit.numastays.com/uk/ukraine_support/](https://visit.numastays.com/uk/ukraine_support/)
-[https://m.facebook.com/groups/3413735175520899/](https://m.facebook.com/groups/3413735175520899/)
+[https://www.facebook.com/UkrainiansFindAHost](https://www.facebook.com/UkrainiansFindAHost)<br />
+[https://www.ukrainenow.org/looking-for-help-abroad](https://www.ukrainenow.org/looking-for-help-abroad)<br />
+[https://visit.numastays.com/uk/ukraine_support/](https://visit.numastays.com/uk/ukraine_support/)<br />
+[https://m.facebook.com/groups/3413735175520899/](https://m.facebook.com/groups/3413735175520899/)<br />
+[https://www.host4ukraine.com/?view=map](https://www.host4ukraine.com/?view=map)<br />
+[https://mapahelp.me/](https://mapahelp.me/)
 <br />
 <br />
 <br />
