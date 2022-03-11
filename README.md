@@ -148,41 +148,19 @@ Deutsche Bahn provides information for refugees and other people on the website 
 - Правило 3G в громадському транспорті (3G = протестований, перехворівший або вакцинований). Для того, щоб користуватися громадським транспортом, Ви маєте бути або вакциновані, недавно перехворіти на ковід, або мати негативний результат тест зробленого протягом останніх 48-и годин. Крім того, в транспорті треба носити маску FFP2. Маски вам видадуть в Центрі прийому біженців.
 - У магазинах та супермаркетах ви зобов’язані носити маску FFP2.
 - У переважній більшості будівель потрібно носити медичну маску.
-Безкоштовний тест на ковід можна зробити в [численних пунктах тестування](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_6)
+Безкоштовний тест на ковід можна зробити в [численних пунктах тестування](https://www.berlin.de/corona/en/testing-facilities/).[^12]
 ___
 Special measures and rules for how to behave are currently in place in Berlin due to the corona pandemic. [Here](https://www.berlin.de/corona/en/measures/) is an overview of the current rules. The most important points relate to:
 - 3G rule on public transport (3G = tested, recovered or vaccinated): If you have not been vaccinated against the coronavirus or have not recently recovered from Covid19, you must have proof of a current corona test with you when using public transport. You must also wear an FFP2 mask. You will be provided with this at the Arrival Centre.
 - FFP2 mask requirement: You must wear an FFP2 mask in supermarkets and shops.
 - Mask requirement in buildings: In most buildings you must wear a medical face mask or surgical mask.
-You can get tested for the coronavirus free of charge at [numerous test centres](https://www.berlin.de/corona/en/testing-facilities/).[[⁴]](https://www.berlin.de/ukraine/en/arrive/#headline_1_6)
+You can get tested for the coronavirus free of charge at [numerous test centres](https://www.berlin.de/corona/en/testing-facilities/).[^13]
 <br />
 <br />
 
-Біженці з України також незабаром отримають можливість зробити щеплення від коронавірусу. Додаткова інформація з цього приводу буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_6).
-### Вакцинація від COVID-19 (безкоштовно):
-10 березня у Посольстві Україні з 17:00 вакцинують від Covid-19 всіх громадян України віком від 5 років.<br />
-Адреса: Albrechtstraße 26, 10117 Berlin<br />
-<br />
-Від 14 березня працюватиме центр вакцинації для громадян України.<br />
-Адреса: Turmstrasse 21, Haus B<br />
-Працює: Пн-пт 10:00-14:00<br />
-<br />
-Гаряча німецька лінія для українців щодо вакцинації та запису дітей до школи (Gesundheitsamt Mitte): 004930901838111<br />
-Працює: Пн-пт 9:00-15:00<br />
-email: [ukraine@ba-mitte.berlin.de](mailto:ukraine@ba-mitte.berlin.de)
+У [центрах вакцинації від коронавірусу та пунктах щеплення від коронавірусу](https://service.berlin.de/standorte/impfzentren/) федеральної землі Берлін Ви маєте можливість пройти відповідну вакцинацію. Ця можливість існує і в разі, якщо у Вас немає офіційного посвідчення особи з фотографією. Для підтвердження Ви отримаєте так званий вкладиш про проходження вакцинації, який пізніше легко зможете використати для одержання цифрового сертифікату про щеплення.[^12]
 ___
-Refugees from Ukraine will also soon be given the opportunity to be vaccinated against the coronavirus. The additional information on this will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_6).
-### Vaccination from COVID-19 (free):
-All citizens of Ukraine aged 5 and older will be vaccinated against Covid-19 on March 10 at 5 pm at the Embassy of Ukraine.<br />
-Address: Albrechtstraße 26, 10117 Berlin<br />
-<br />
-The vaccination center for citizens of Ukraine will be open from March 14.<br />
-Address: Turmstrasse 21, Haus B<br />
-Open: Mon-Fri 10:00-14:00<br />
-<br />
-German hotline for vaccination and enrollment of children in school (Gesundheitsamt Mitte): 004930901838111<br />
-Open: Mon-Fri 9:00-15:00<br />
-email: [ukraine@ba-mitte.berlin.de](mailto:ukraine@ba-mitte.berlin.de)
+You can get vaccinated at the [corona vaccination centres and corona vaccination points](https://service.berlin.de/standorte/impfzentren/) run by the state of Berlin. This is possible even if you are unable to present an official photo ID. You will be given a document showing you have been vaccinated that you can insert into your vaccination records, (known as an Einlegeblatt in German) and which allows you to easily get your digital vaccination certificate.[^13]
 <br />
 <br />
 
@@ -493,3 +471,5 @@ Contact me - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
 [^9]: [https://www.bahn.de/info/helpukraine#ukr](https://www.bahn.de/info/helpukraine#ukr)<br />
 [^10]: [https://www.bahn.de/info/helpukraine#en](https://www.bahn.de/info/helpukraine#en)<br />
 [^11]: [https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)<br />
+[^12]: [https://www.berlin.de/ukraine/uk/pributtja/meditschne-sabespetschennja/#headline_1_1](https://www.berlin.de/ukraine/uk/pributtja/meditschne-sabespetschennja/#headline_1_1)<br />
+[^13]: [https://www.berlin.de/ukraine/en/arrive/medical-care/#headline_1_1](https://www.berlin.de/ukraine/en/arrive/medical-care/#headline_1_1)<br />
