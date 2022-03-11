@@ -9,7 +9,7 @@
 ## Зміст / Table of contents
 - [Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc)
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
-- [Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum](#user-content-реєстрація-в-органах-влади-та-подання-заявки-про-притулок--registering-with-the-authorities-and-applying-for-asylum)
+- [Реєстрація як біженець війни / Registering as war refugee](#user-content-реєстрація-як-біженець-війни--registering-as-war-refugee)
 - [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
@@ -72,51 +72,22 @@ As a Ukrainian you are generally allowed to enter Germany and Berlin without a v
 ___
 If you do not have a biometric passport, you need a Schengen visa to enter Germany. This also applies to people from other countries with residence in Ukraine – such as students from third countries. You can apply for a Schengen visa at the [German missions abroad](https://www.auswaertiges-amt.de/en/about-us/auslandsvertretungen/deutsche-auslandsvertretungen) in Ukraine’s neighbouring countries. The visa is initially valid for 90 days and then has to be extended. You can [apply for an extension of your Schengen visa](https://service.berlin.de/dienstleistung/324785/en/) on humanitarian grounds.[[¹]](https://www.berlin.de/ukraine/en/arrive/#headline_1_1)
 
-## Реєстрація в органах влади та подання заявки про притулок / Registering with the authorities and applying for asylum
-**Увага!** Вам не потрібно подавати заяву на отримання політичного притулку (азиль ASYL) чи отримувати статус біженця. Статус ASYL передбачатиме обмеження ваших прав, як біженця в Німеччині.<br />
-Для українців розроблена окрема процедура відповідно до § 24 AufenthG у спрощеному порядку. Називається “Надання місця проживання для тимчасового захисту” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). Для цього вам потрібно буде зареєструватись. Станом на 7.03 закон ще не набрав чинності.<br />
-Інформація буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
+## Реєстрація як біженець війни / Registering as war refugee
+Українські біженці можуть отримати статус біженців із зони воєнних дій в усьому ЄС. Для цього не потрібно подавати заявку на проходження процедури отримання статусу біженця. Наразі реєстрація в Берліні не проводиться. Інформація буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/)<br />
+Після реєстрації Ви можете претендувати на соціальне забезпечення та державну підтримку.<br />
+Після реєстрації як біженка/біженець із зони воєнних дій Вас можуть перенаправити з Берліна в іншу федеральну землю. Якщо в Берліні у Вас є рідні, як правило, Ви зможете залишитися тут.<br />
+Як біженка/біженець із зони воєнних дій Ви отримаєте право на перебування спочатку на один рік і спрощений доступ до ринку праці.
 ___
-**Attention!** You do not need to apply for political asylum (ASYL asylum) or refugee status. ASYL status will restrict your rights as a refugee in Germany.<br />
-A separate procedure has been developed for Ukrainians in accordance with § 24 AufenthG in a simplified manner. It is called “Provision of residence for temporary protection” (Aufenthaltsgewährung zum vorübergehenden Schutz, § 24 Absatz 1 AufenthG). To do this, you will need to register. As of March 7, the law has not yet entered into force.<br />
-Information will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
+Ukrainian refugees can be granted the status of war refugee throughout the EU. So it is not necessary to apply for asylum. Registration is currently not possible yet in Berlin. Information will be posted [here](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/)<br />
+Once you have registered, you will be entitled to social benefits and state support.<br />
+After registering as a war refugee, you may be transferred from Berlin to another federal state. If you have relatives in Berlin, you will usually be allowed to stay.<br />
+As a war refugee, you have a right of residence for an initial period of one year and simplified access to the labour market.
 <br />
 <br />
 
-Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
+Всі перевагу, умови та процедуру отримання статусу біженця війни можна знайти на офіційному ресурсі Берліна [https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/](https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/).
 ___
-Questions and answers about entering Germany from Ukraine and staying in Germany (Stand: 04.03.2022): [https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html;jsessionid=2425A537126DD3E5BD57248D94EFF426.internet551#doc1110318bodyText1)
-<br />
-<br />
-
-Інформація щодо реєстрації та заяви на отримання пільг в Берліні: [https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#i](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#i)
-___
-Information on registration and applications for benefits in Berlin: [https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH)
-<br />
-<br />
-
-Оскільки ви є громадянином України з біометричним паспортом або шенгенською візою і перебуваєте в Німеччині на законних підставах, вам не потрібно спочатку реєструватися в органах влади або подавати заяву на отримання політичного притулку (азиль).[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
-___
-Since you are a Ukrainian citizen with a biometric passport or Schengen visa residing in Germany legally, you do not have to register with the authorities or apply for asylum initially.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
-<br />
-<br />
-<br />
-Наразі в ЄС докладаються зусилля щодо роз’яснення офіційного статусу проживання громадян України. Однією з можливостей, що обговорюються, є застосування положення про «тимчасовий захист» відповідно до Директиви 2001/55/EC. Інформація про поточні події буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5).
-___
-EU-wide efforts are currently underway to clarify the official residence status of people from Ukraine. One possibility being discussed is applying the “temporary protection” clause under Directive 2001/55/EC. Information on current developments will be posted [here](https://www.berlin.de/ukraine/en/arrive/#headline_1_5).
-<br />
-<br />
-<br />
-Якщо ви перебуваєте в Німеччині легально завдяки шенгенській візі або в’їзду за біометричним паспортом, на даний момент вам не потрібно подавати заяву про надання політичного притулку (азиль). Прохання про надання політичного притулку також тягне за собою ряд обмежень для вас: спочатку ви не зможете працювати, будете розподілені по Німеччині на основі квот на прийом, а потім не зможете вільно обирати місце проживання.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
-___
-If you are in Germany legally thanks to a Schengen visa or entering on a biometric passport, you do not need to apply for asylum at the present time. Applying for asylum would also entail a number of restrictions for you: You would initially not be able to work, would be distributed across Germany on the basis of reception quotas and would then not be able to freely choose your place of residence.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
-However, if you need social benefits (financial support, medical care, housing), you should register. Then you have a legal right to state support.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_5)
-<br />
-<br />
-
-Німецька організація, збирає інформацію та пояснює закони щодо статусу українців за [посиланням](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#U).
-___
-German organization collects information and explains laws on the status of Ukrainians by [link](https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/#DEUTSCH)
+All the benefits, conditions and procedure for obtaining war refugee status can be found on the official resource of Berlin [https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/).
 
 ## Дозвіл на роботу / Work permit
 Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
