@@ -8,6 +8,7 @@
 
 ## Зміст / Table of contents
 - [Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc)
+- [Часто задавані питання](#user-content-часто-задавані-питання)
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація як біженець війни / Registering as war refugee](#user-content-реєстрація-як-біженець-війни--registering-as-war-refugee)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
@@ -43,6 +44,10 @@ ___
 - [Central Bus Station (ZOB - Zentraler Omnibusbahnhof Berlin)](https://goo.gl/maps/emexKBWrUKMfncEv5)
 - [Central Station (HBF Berlin)](https://goo.gl/maps/oGRNmueMF2YfQ9276)
 - [Südkreuz (large S-Bahn station)](https://goo.gl/maps/RMS5Btdi6dRR9Pmc8)
+
+## Часто задавані питання
+[Інформація для біженців з України і для волонтерів. Часто задавані питання.](https://www.berlin.de/ukraine/uk/priom/)<br />
+[Запитання та відповіді щодо в’їзду в Німеччину з України та перебування в Німеччині (станом на 4 березня 2022 )](https://www.bamf.de/DE/Themen/AsylFluechtlingsschutz/ResettlementRelocation/InformationenEinreiseUkraine/informationen-einreise-ukraine-node.html#doc1110318bodyText2)
 
 ## Віза і право на проживання / Visa and right of residence
 Якщо у Вас українське громадянство, то Ви маєте право на безвізовий в’їзд до Німеччини. Для цього Вам лише потрібно мати біометричний паспорт. Якщо Ви в’їхали без візи, то можете поки що перебувати у федеральній землі Берлін до 31 травня 2022 року. Залежно від того, як будуть розвиватися події в Україні, цей термін може бути продовжено. Прошу звернути увагу на те, що дозвіл на перебування до 31 травня 2022 року дійсний лише в Берліні. Якщо Ви зупинилися в іншій федеральній землі і залишилися там надовше, ніж 90 днів, Ви зобов’язані звернутися до місцевого відомства у справах іноземців, щоб Ваше подальше перебування було законним.<br />
