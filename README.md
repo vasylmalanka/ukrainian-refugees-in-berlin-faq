@@ -10,7 +10,6 @@
 - [Допомога біженцям (житло, транспорт, переклад, юридична підтримка, інше) / Assistance to refugees (housing, transport, translation, legal support, etc.)](#user-content-допомога-біженцям-житло-транспорт-переклад-юридична-підтримка-інше--assistance-to-refugees-housing-transport-translation-legal-support-etc)
 - [Віза і право на проживання / Visa and right of residence](#user-content-віза-і-право-на-проживання--visa-and-right-of-residence)
 - [Реєстрація як біженець війни / Registering as war refugee](#user-content-реєстрація-як-біженець-війни--registering-as-war-refugee)
-- [Дозвіл на роботу / Work permit](#user-content-дозвіл-на-роботу--work-permit)
 - [Пошук житла / Looking for housing](#user-content-пошук-житла--looking-for-housing)
 - [Громадський транспорт / Public transport](#user-content-громадський-транспорт--public-transport)
 - [Безкоштовні поїздки по Німеччині / Free travel in Germany](#user-content-безкоштовні-поїздки-по-німеччині--free-travel-in-germany)
@@ -68,12 +67,6 @@ As a war refugee, you have a right of residence for an initial period of one yea
 Всі перевагу, умови та процедуру отримання статусу біженця війни можна знайти на офіційному ресурсі Берліна [https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/](https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/).
 ___
 All the benefits, conditions and procedure for obtaining war refugee status can be found on the official resource of Berlin [https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/).
-
-## Дозвіл на роботу / Work permit
-Наразі аспекти трудового законодавства також з’ясовуються. Якщо ви в’їхали в Німеччину без візи або за шенгенською візою, вам спочатку заборонено працювати. Якщо у вас є довгострокова або національна віза, чи робоча віза для Німеччини, вам дозволено працювати.[[³]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_5)
-Однак, якщо вам потрібні соціальні виплати (матеріальна підтримка, медичне обслуговування, житло), вам слід зареєструватися. Тоді у вас є законне право на державну підтримку.[[⁵]](https://www.berlin.de/laf/ankommen/fluechtlinge-aus-der-ukraine/#headline_1_5)
-___
-Labour law aspects are also currently still being clarified. If you entered Germany without a visa or on a Schengen visa, you are initially not allowed to work. If you have a long-term visa or national visa or a work visa for Germany, you are allowed to work.[[³]](https://www.berlin.de/ukraine/en/arrive/#headline_1_5)
 
 ## Пошук житла / Looking for housing
 Якщо вам потрібна допомога – наприклад, з проживанням або з базовими потребами, будь ласка, зв’яжіться з Центром Прибуття. Він розташований за адресою [Oranienburger Straße 285, 13437 Berlin-Reinickendorf](https://goo.gl/maps/BAv7yGmH8jC1Xux3A). У Центрі Прибуття вас протестують на коронавірус, а потім зареєструють. Під час реєстрації необхідно пред'явити паспорт або посвідчення особи. Після цього вас відвезуть до місця проживання. Ви отримаєте засоби гігієни, невідкладну допомогу, кімнату та триразове харчування. Протягом наступних днів ви отримаєте інформацію про порядок отримання посвідки на проживання.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
