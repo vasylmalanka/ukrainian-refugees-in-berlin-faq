@@ -1,4 +1,5 @@
-# Інформація для біженців з України прибуваючих в Берлін / Information for refugees from Ukraine arriving in Berlin
+# Інформація для біженців з України прибуваючих в Берлін (оновлено 11.03.2022)
+# Information for refugees from Ukraine arriving in Berlin (updated 11.03.2022)
 | інформація оновлюється / information is being updated |
 | --- |
 
