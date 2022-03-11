@@ -60,12 +60,12 @@ If you do not have a biometric passport, you need a Schengen visa to enter Germa
 Українські біженці можуть отримати статус біженців із зони воєнних дій в усьому ЄС. Для цього не потрібно подавати заявку на проходження процедури отримання статусу біженця. Наразі реєстрація в Берліні не проводиться. Інформація буде розміщена [тут](https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/)<br />
 Після реєстрації Ви можете претендувати на соціальне забезпечення та державну підтримку.<br />
 Після реєстрації як біженка/біженець із зони воєнних дій Вас можуть перенаправити з Берліна в іншу федеральну землю. Якщо в Берліні у Вас є рідні, як правило, Ви зможете залишитися тут.<br />
-Як біженка/біженець із зони воєнних дій Ви отримаєте право на перебування спочатку на один рік і спрощений доступ до ринку праці.
+Як біженка/біженець із зони воєнних дій Ви отримаєте право на перебування спочатку на один рік і спрощений доступ до ринку праці.[^3]
 ___
 Ukrainian refugees can be granted the status of war refugee throughout the EU. So it is not necessary to apply for asylum. Registration is currently not possible yet in Berlin. Information will be posted [here](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/)<br />
 Once you have registered, you will be entitled to social benefits and state support.<br />
 After registering as a war refugee, you may be transferred from Berlin to another federal state. If you have relatives in Berlin, you will usually be allowed to stay.<br />
-As a war refugee, you have a right of residence for an initial period of one year and simplified access to the labour market.
+As a war refugee, you have a right of residence for an initial period of one year and simplified access to the labour market.[^4]
 <br />
 <br />
 
@@ -483,4 +483,6 @@ Contact me - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
 <br />
 
 [^1]: [https://www.berlin.de/ukraine/uk/pributtja/w-isd-do-nimetschtschini/](https://www.berlin.de/ukraine/uk/pributtja/w-isd-do-nimetschtschini/)<br />
-[^2]: [https://www.berlin.de/ukraine/en/arrive/entry/](https://www.berlin.de/ukraine/en/arrive/entry/)
+[^2]: [https://www.berlin.de/ukraine/en/arrive/entry/](https://www.berlin.de/ukraine/en/arrive/entry/)<br />
+[^3]: [https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/](https://www.berlin.de/ukraine/uk/pributtja/reestrazija-jak-bishenziw/)<br />
+[^4]: [https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/)<br />
