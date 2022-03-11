@@ -130,18 +130,18 @@ ___
 
 ## Безкоштовні поїздки по Німеччині / Free travel in Germany
 Маючи при собі український (закордонний) паспорт чи ID-картку, ви маєте можливість безкоштовного проїзду в поїздах до Берліну, Дрездену, Нюрнбергу та Мюнхену; наявність квитка за цими маршрутами не потрібна.<br />
-Але якщо ви плануєте їхати далі від вище вказаних міст, то вам необхідно звернутися в Центр подорожуючих німецької залізниці «DB Reisezentrum» чи в представницьку агенцію компанії «DB» та отримати безкоштовний квиток з позначкою „helpukraine“ («допомогадляукраїни»). Квиток дає право на проїзд у вагонах 2-го класу і дійсний до кінцевої точки призначення. Під час перевірки квитків пред’явіть, будь ласка, борд-провіднику поїзда документ, що засвідчує вашу особу: український (закордонний) паспорт чи ID-картку.[[¹⁰]](https://www.bahn.de/info/helpukraine#ukr)<br />
+Але якщо ви плануєте їхати далі від вище вказаних міст, то вам необхідно звернутися в Центр подорожуючих німецької залізниці «DB Reisezentrum» чи в представницьку агенцію компанії «DB» та отримати безкоштовний квиток з позначкою „helpukraine“ («допомогадляукраїни»). Квиток дає право на проїзд у вагонах 2-го класу і дійсний до кінцевої точки призначення. Під час перевірки квитків пред’явіть, будь ласка, борд-провіднику поїзда документ, що засвідчує вашу особу: український (закордонний) паспорт чи ID-картку.[^9]<br />
 Більше інформації за [посиланням](https://www.bahn.de/info/helpukraine#ukr).
 ___
 You can travel with your Ukrainian passport/ID card to Berlin, Dresden, Nuremberg and Munich. You do not need a ticket.<br />
-If you wish to continue your journey, you can get a free "helpukraine" ticket valid in 2nd class to your desired destination at a DB Reisezentrum (DB Travel Centre) or at a DB agency. Please show your Ukrainian ID (passport/ ID card) to the ticket inspector on the train upon request.[[¹⁰]](https://www.bahn.de/info/helpukraine#en)<br />
+If you wish to continue your journey, you can get a free "helpukraine" ticket valid in 2nd class to your desired destination at a DB Reisezentrum (DB Travel Centre) or at a DB agency. Please show your Ukrainian ID (passport/ ID card) to the ticket inspector on the train upon request.[^10]<br />
 More information can be found [here](https://www.bahn.de/info/helpukraine#en).
 <br />
 <br />
 
-Для біженців та їх родичів «Deutsche Bahn» також надає необхідну інформацію на веб-сторінці [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#ukr) та на гарячій лінії обслуговування клієнтів за номером 030 2970 (для дзвінків з Німеччини), де можна отримати інформацію на різних мовах.[[¹⁴]](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)
+Для біженців та їх родичів «Deutsche Bahn» також надає необхідну інформацію на веб-сторінці [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#ukr) та на гарячій лінії обслуговування клієнтів за номером 030 2970 (для дзвінків з Німеччини), де можна отримати інформацію на різних мовах.[^11]
 ___
-Deutsche Bahn provides information for refugees and other people on the website [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#en) and can also help people via the customer hotline 030 2970 in several languages.[[¹⁴]](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)
+Deutsche Bahn provides information for refugees and other people on the website [bahn.de/helpukraine](https://www.bahn.de/info/helpukraine#en) and can also help people via the customer hotline 030 2970 in several languages.[^11]
 
 ## Ситуація з коронавірусом в Берліні / Corona situation in Berlin
 В зв’язку з пандемією коронавірусу в Берліні зараз діють особливі правила поведінки та вживаються особливі заходи. [Тут](https://www.berlin.de/corona/en/measures/) ви знайдете перелік діючих правил. Найважливіші з них:
@@ -490,3 +490,6 @@ Contact me - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
 [^6]: [https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/](https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/)<br />
 [^7]: [https://www.berlin.de/ukraine/uk/pributtja/#headline_1_9](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_9)<br />
 [^8]: [https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/#headline_1_2](https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/#headline_1_2)<br />
+[^9]: [https://www.bahn.de/info/helpukraine#ukr](https://www.bahn.de/info/helpukraine#ukr)<br />
+[^10]: [https://www.bahn.de/info/helpukraine#en](https://www.bahn.de/info/helpukraine#en)<br />
+[^11]: [https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Mehr-Bahn-Routen-fuer-Gefluechtete-aus-der-Ukraine-nach-Deutschland-7315212)<br />
