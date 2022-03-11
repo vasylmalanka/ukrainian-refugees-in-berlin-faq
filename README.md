@@ -118,9 +118,9 @@ ___
 [Telegram channel consulting free of charge about pets](https://t.me/vetbel)
 
 ## Громадський транспорт / Public transport
-Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні.[[²]](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_2)
+Як український біженець, ви можете безкоштовно користуватися всіма автобусами, швидкісними поїздами та поїздами U-Bahn (приміські та метро) в Берліні.[^7]
 ___
-As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn trains (suburban and underground trains) in Berlin free of charge.[[²]](https://www.berlin.de/ukraine/en/arrive/#headline_1_2)
+As a Ukrainian refugee, you are allowed to use all the buses, S-Bahn and U-Bahn trains (suburban and underground trains) in Berlin free of charge.[^8]
 <br />
 <br />
 <br />
@@ -488,3 +488,5 @@ Contact me - [vsl.malanka@gmail.com](mailto:vsl.malanka@gmail.com)
 [^4]: [https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/](https://www.berlin.de/ukraine/en/arrive/temporary-protected-status/)<br />
 [^5]: [https://www.berlin.de/ukraine/uk/pributtja/perschi-dni-w-berlini/](https://www.berlin.de/ukraine/uk/pributtja/perschi-dni-w-berlini/)<br />
 [^6]: [https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/](https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/)<br />
+[^7]: [https://www.berlin.de/ukraine/uk/pributtja/#headline_1_9](https://www.berlin.de/ukraine/uk/pributtja/#headline_1_9)<br />
+[^8]: [https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/#headline_1_2](https://www.berlin.de/ukraine/en/arrive/first-days-in-berlin/#headline_1_2)<br />
