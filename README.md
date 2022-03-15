@@ -1,7 +1,24 @@
-# Інформація для біженців з України прибуваючих в Берлін (оновлено 11.03.2022)
-# Information for refugees from Ukraine arriving in Berlin (updated 11.03.2022)
-| інформація оновлюється / information is being updated |
-| --- |
+# Інформація для біженців з України прибуваючих в Берлін (інформація не оновлюється)
+# Information for refugees from Ukraine arriving in Berlin (the information will not be updated)
+<br />
+
+> **⚠ УВАГА: Інформація не оновлюється**<br />
+> **⚠ WARNING: Information is not updated**  
+<br />
+
+Я вирішив припинити роботу над цим репозиторієм, позаяк мені не вистачає часу обробляти всю інформацію, яку я знаходжу. На жаль, мені не вдалося знайти бажаючих допомогти.<br />
+Ви можете знайти багато інформації, яка постійно онвлється тут:
+___
+I decided to stop working on this repository because I don't have enough time to process all the information I find. Unfortunately, I couldn't find anyone to help me.<br />
+You can find a lot of information that is constantly updated here:<br />
+<br />
+[Berlin helps Ukrainians (Telegram)](https://t.me/berlinhelpsukrainians). Гляньте прикріплену інформацію в чаті / See the attached information in the chat<br />
+<br />
+[Vitsche (Telegram)](https://t.me/vitsche_berlin). Ознайомтеся з їх набором посилань / Check out their set of links [https://linktr.ee/vitsche_berlin](https://linktr.ee/vitsche_berlin)<br />
+<br />
+[Віртуальний Український Дім Берліну](https://www.facebook.com/ukr.dim.berlin). Зверніть увагу на їх статтю по реєстрації біженцем в Берліні / Take a note of their article on refugee registration in Berlin [https://ukr-dim.de/online-registration-refugees/](https://ukr-dim.de/online-registration-refugees/)<br />
+<br />
+[Awesomeness for refugees](https://github.com/ovolynets/awesomeness-for-refugees)
 
 ### Телеграм чат для допомоги біженцям в Берліні / Telegram chat for refugees in Berlin
 [https://t.me/+pY4AEUY_0jZhMzQ0](https://t.me/+pY4AEUY_0jZhMzQ0)
